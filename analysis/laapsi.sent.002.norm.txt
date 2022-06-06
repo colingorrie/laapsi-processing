@@ -1,232 +1,232 @@
 
 002.0.01.1.text  Osweald Bera wunaþ in lȳtelum holte, ac hē wile middanġeard ġesēon.
-002.0.01.1.flags .       .    .     .  .       .      .  .  .    .           .
-002.0.01.1.norm  Osweald Bera wunaþ in lȳtelum holte  ac hē wile middanġeard ġesēon
+002.0.01.1.flags .       c    .     .  .       .      .  .  .    .           .
+002.0.01.1.norm  Osweald bera wunaþ in lȳtelum holte  ac hē wile middanġeard ġesēon
 
 002.0.01.2.text  For þām wile hē his holt ġewītan and fēran tō Wintanċeastre tūne.
-002.0.01.2.flags .   .   .    .  .   .    .       .   .     .  .             .
-002.0.01.2.norm  For þām wile hē his holt ġewītan and fēran tō Wintanċeastre tūne
+002.0.01.2.flags c   .   .    .  .   .    .       .   .     .  c             .
+002.0.01.2.norm  for þām wile hē his holt ġewītan and fēran tō wintanċeastre tūne
 
 002.0.02.1.text  Osweald þearf fēran fram holte tō tūne.
 002.0.02.1.flags .       .     .     .    .     .  .
 002.0.02.1.norm  Osweald þearf fēran fram holte tō tūne
 
 002.0.02.2.text  And fēran fram holte tō tūne is lang sīþ.
-002.0.02.2.flags .   .     .    .     .  .    .  .    .
-002.0.02.2.norm  And fēran fram holte tō tūne is lang sīþ
+002.0.02.2.flags c   .     .    .     .  .    .  .    .
+002.0.02.2.norm  and fēran fram holte tō tūne is lang sīþ
 
 002.0.03.1.text  For þām þearf hē mete.
-002.0.03.1.flags .   .   .     .  .
-002.0.03.1.norm  For þām þearf hē mete
+002.0.03.1.flags c   .   .     .  .
+002.0.03.1.norm  for þām þearf hē mete
 
 002.0.04.1.text  Hwelċ mete is þǣr on holte? Is þǣr hlāf on holte? Nese, nis þǣr hlāf on holte.
-002.0.04.1.flags .     .    .  .   .  .      .  .   .    .  .      .     .   .   .    .  .
-002.0.04.1.norm  Hwelċ mete is þǣr on holte? Is þǣr hlāf on holte? Nese  nis þǣr hlāf on holte
+002.0.04.1.flags c     .    .  .   .  .      c  .   .    .  .      c     .   .   .    .  .
+002.0.04.1.norm  hwelċ mete is þǣr on holte? is þǣr hlāf on holte? nese  nis þǣr hlāf on holte
 
 002.0.04.2.text  Is þǣr ċīese on holte? Nese, nis þǣr ċīese on holte.
-002.0.04.2.flags .  .   .     .  .      .     .   .   .     .  .
-002.0.04.2.norm  Is þǣr ċīese on holte? Nese  nis þǣr ċīese on holte
+002.0.04.2.flags c  .   .     .  .      c     .   .   .     .  .
+002.0.04.2.norm  is þǣr ċīese on holte? nese  nis þǣr ċīese on holte
 
 002.0.04.3.text  Ac þǣr is hlāf and ċīese on tūne.
-002.0.04.3.flags .  .   .  .    .   .     .  .
-002.0.04.3.norm  Ac þǣr is hlāf and ċīese on tūne
+002.0.04.3.flags c  .   .  .    .   .     .  .
+002.0.04.3.norm  ac þǣr is hlāf and ċīese on tūne
 
 002.0.05.1.text  Hlāf is gōd mete.
-002.0.05.1.flags .    .  .   .
-002.0.05.1.norm  Hlāf is gōd mete
+002.0.05.1.flags c    .  .   .
+002.0.05.1.norm  hlāf is gōd mete
 
 002.0.05.2.text  Weras and wīf etaþ hlāf.
-002.0.05.2.flags .     .   .   .    .
-002.0.05.2.norm  Weras and wīf etaþ hlāf
+002.0.05.2.flags c     .   .   .    .
+002.0.05.2.norm  weras and wīf etaþ hlāf
 
 002.0.05.3.text  Hlāf is gōd mete werum and wīfum.
-002.0.05.3.flags .    .  .   .    .     .   .
-002.0.05.3.norm  Hlāf is gōd mete werum and wīfum
+002.0.05.3.flags c    .  .   .    .     .   .
+002.0.05.3.norm  hlāf is gōd mete werum and wīfum
 
 002.0.06.1.text  Ċīese is ēac gōd mete.
-002.0.06.1.flags .     .  .   .   .
-002.0.06.1.norm  Ċīese is ēac gōd mete
+002.0.06.1.flags c     .  .   .   .
+002.0.06.1.norm  ċīese is ēac gōd mete
 
 002.0.06.2.text  Weras and wīf etaþ ēac ċīese.
-002.0.06.2.flags .     .   .   .    .   .
-002.0.06.2.norm  Weras and wīf etaþ ēac ċīese
+002.0.06.2.flags c     .   .   .    .   .
+002.0.06.2.norm  weras and wīf etaþ ēac ċīese
 
 002.0.06.3.text  Ċīese is gōd mete werum and wīfum.
-002.0.06.3.flags .     .  .   .    .     .   .
-002.0.06.3.norm  Ċīese is gōd mete werum and wīfum
+002.0.06.3.flags c     .  .   .    .     .   .
+002.0.06.3.norm  ċīese is gōd mete werum and wīfum
 
 002.0.07.1.text  Hwelċ mete is þonne þǣr on holte? Þǣr sindon fisċas in holte.
-002.0.07.1.flags .     .    .  .     .   .  .      .   .      .      .  .
-002.0.07.1.norm  Hwelċ mete is þonne þǣr on holte? Þǣr sindon fisċas in holte
+002.0.07.1.flags c     .    .  .     .   .  .      c   .      .      .  .
+002.0.07.1.norm  hwelċ mete is þonne þǣr on holte? þǣr sindon fisċas in holte
 
 002.0.07.2.text  Beran etaþ fisċas.
-002.0.07.2.flags .     .    .
-002.0.07.2.norm  Beran etaþ fisċas
+002.0.07.2.flags c     .    .
+002.0.07.2.norm  beran etaþ fisċas
 
 002.0.07.3.text  Fisċas sindon gōd mete beran.
-002.0.07.3.flags .      .      .   .    .
-002.0.07.3.norm  Fisċas sindon gōd mete beran
+002.0.07.3.flags c      .      .   .    .
+002.0.07.3.norm  fisċas sindon gōd mete beran
 
 002.0.08.1.text  Þǣr sindon ēac berġan on holte.
-002.0.08.1.flags .   .      .   .      .  .
-002.0.08.1.norm  Þǣr sindon ēac berġan on holte
+002.0.08.1.flags c   .      .   .      .  .
+002.0.08.1.norm  þǣr sindon ēac berġan on holte
 
 002.0.08.2.text  Berġan sindon gōd mete beran.
-002.0.08.2.flags .      .      .   .    .
-002.0.08.2.norm  Berġan sindon gōd mete beran
+002.0.08.2.flags c      .      .   .    .
+002.0.08.2.norm  berġan sindon gōd mete beran
 
 002.0.09.1.text  Þǣr is ēac huniġ on holte.
-002.0.09.1.flags .   .  .   .     .  .
-002.0.09.1.norm  Þǣr is ēac huniġ on holte
+002.0.09.1.flags c   .  .   .     .  .
+002.0.09.1.norm  þǣr is ēac huniġ on holte
 
 002.0.09.2.text  Huniġ is ēac gōd mete beran.
-002.0.09.2.flags .     .  .   .   .    .
-002.0.09.2.norm  Huniġ is ēac gōd mete beran
+002.0.09.2.flags c     .  .   .   .    .
+002.0.09.2.norm  huniġ is ēac gōd mete beran
 
 002.0.10.1.text  Fisċas and berġan and huniġ sindon gōd mete beran.
-002.0.10.1.flags .      .   .      .   .     .      .   .    .
-002.0.10.1.norm  Fisċas and berġan and huniġ sindon gōd mete beran
+002.0.10.1.flags c      .   .      .   .     .      .   .    .
+002.0.10.1.norm  fisċas and berġan and huniġ sindon gōd mete beran
 
 002.0.11.1.text  Osweald þearf sēċan mete on holte: oþþe fisċas, oþþe berġan, oþþe huniġ.
 002.0.11.1.flags .       .     .     .    .  .      .    .       .    .       .    .
 002.0.11.1.norm  Osweald þearf sēċan mete on holte: oþþe fisċas  oþþe berġan  oþþe huniġ
 
 002.0.12.1.text  Ǣrest seċeþ hē fisċas.
-002.0.12.1.flags .     .     .  .
-002.0.12.1.norm  Ǣrest seċeþ hē fisċas
+002.0.12.1.flags c     .     .  .
+002.0.12.1.norm  ǣrest seċeþ hē fisċas
 
 002.0.12.2.text  Ac ne fint hē fisċas.
-002.0.12.2.flags .  .  .    .  .
-002.0.12.2.norm  Ac ne fint hē fisċas
+002.0.12.2.flags c  .  .    .  .
+002.0.12.2.norm  ac ne fint hē fisċas
 
 002.0.12.3.text  Hæfþ sē holt fisċas? Nese, næfþ sē holt fisċas.
-002.0.12.3.flags .    .  .    .       .     .    .  .    .
-002.0.12.3.norm  Hæfþ sē holt fisċas? Nese  næfþ sē holt fisċas
+002.0.12.3.flags c    .  .    .       c     .    .  .    .
+002.0.12.3.norm  hæfþ sē holt fisċas? nese  næfþ sē holt fisċas
 
 002.0.13.1.text  Þā seċeþ hē berġan.
-002.0.13.1.flags .  .     .  .
-002.0.13.1.norm  Þā seċeþ hē berġan
+002.0.13.1.flags c  .     .  .
+002.0.13.1.norm  þā seċeþ hē berġan
 
 002.0.13.2.text  Ac ne fint hē berġan.
-002.0.13.2.flags .  .  .    .  .
-002.0.13.2.norm  Ac ne fint hē berġan
+002.0.13.2.flags c  .  .    .  .
+002.0.13.2.norm  ac ne fint hē berġan
 
 002.0.13.3.text  Hæfþ sē holt berġan? Nese, næfþ sē holt berġan.
-002.0.13.3.flags .    .  .    .       .     .    .  .    .
-002.0.13.3.norm  Hæfþ sē holt berġan? Nese  næfþ sē holt berġan
+002.0.13.3.flags c    .  .    .       c     .    .  .    .
+002.0.13.3.norm  hæfþ sē holt berġan? nese  næfþ sē holt berġan
 
 002.0.14.1.text  Þā seċeþ hē huniġ.
-002.0.14.1.flags .  .     .  .
-002.0.14.1.norm  Þā seċeþ hē huniġ
+002.0.14.1.flags c  .     .  .
+002.0.14.1.norm  þā seċeþ hē huniġ
 
 002.0.14.2.text  And sōþlīċe fint hē huniġ.
-002.0.14.2.flags .   .       .    .  .
-002.0.14.2.norm  And sōþlīċe fint hē huniġ
+002.0.14.2.flags c   .       .    .  .
+002.0.14.2.norm  and sōþlīċe fint hē huniġ
 
 002.0.14.3.text  Hæfþ sē holt huniġ? Ġiese, sē holt hæfþ huniġ.
-002.0.14.3.flags .    .  .    .      .      .  .    .    .
-002.0.14.3.norm  Hæfþ sē holt huniġ? Ġiese  sē holt hæfþ huniġ
+002.0.14.3.flags c    .  .    .      c      .  .    .    .
+002.0.14.3.norm  hæfþ sē holt huniġ? ġiese  sē holt hæfþ huniġ
 
 002.0.14.4.text  Þǣr is huniġ on þām holte.
-002.0.14.4.flags .   .  .     .  .   .
-002.0.14.4.norm  Þǣr is huniġ on þām holte
+002.0.14.4.flags c   .  .     .  .   .
+002.0.14.4.norm  þǣr is huniġ on þām holte
 
 002.0.15.1.text  Hwā wyrċaþ huniġ? Bēon.
-002.0.15.1.flags .   .      .      .
-002.0.15.1.norm  Hwā wyrċaþ huniġ? Bēon
+002.0.15.1.flags c   .      .      c
+002.0.15.1.norm  hwā wyrċaþ huniġ? bēon
 
 002.0.16.1.text  Hwæt sindon bēon? Bēon sindon lȳtele ġesċeafte.
-002.0.16.1.flags .    .      .     .    .      .      .
-002.0.16.1.norm  Hwæt sindon bēon? Bēon sindon lȳtele ġesċeafte
+002.0.16.1.flags c    .      .     c    .      .      .
+002.0.16.1.norm  hwæt sindon bēon? bēon sindon lȳtele ġesċeafte
 
 002.0.16.2.text  Hīe wyrċaþ huniġ.
-002.0.16.2.flags .   .      .
-002.0.16.2.norm  Hīe wyrċaþ huniġ
+002.0.16.2.flags c   .      .
+002.0.16.2.norm  hīe wyrċaþ huniġ
 
 002.0.16.3.text  Hīe cunnon sċeþþan ōþre ġesċeafte!
-002.0.16.3.flags .   .      .       .    .
-002.0.16.3.norm  Hīe cunnon sċeþþan ōþre ġesċeafte
+002.0.16.3.flags c   .      .       .    .
+002.0.16.3.norm  hīe cunnon sċeþþan ōþre ġesċeafte
 
 002.0.17.1.text  Ōþre ġesċeafte willaþ etan huniġ: beran sindon miċele ġesċeafte and hīe willaþ etan huniġ.
-002.0.17.1.flags .    .         .      .    .      .     .      .      .         .   .   .      .    .
-002.0.17.1.norm  Ōþre ġesċeafte willaþ etan huniġ: beran sindon miċele ġesċeafte and hīe willaþ etan huniġ
+002.0.17.1.flags c    .         .      .    .      .     .      .      .         .   .   .      .    .
+002.0.17.1.norm  ōþre ġesċeafte willaþ etan huniġ: beran sindon miċele ġesċeafte and hīe willaþ etan huniġ
 
 002.0.17.2.text  Weras and wīf ēac willaþ etan huniġ.
-002.0.17.2.flags .     .   .   .   .      .    .
-002.0.17.2.norm  Weras and wīf ēac willaþ etan huniġ
+002.0.17.2.flags c     .   .   .   .      .    .
+002.0.17.2.norm  weras and wīf ēac willaþ etan huniġ
 
 002.0.18.1.text  Ac nillaþ þā bēon ġiefan huniġ ōþrum ġesċeaftum.
-002.0.18.1.flags .  .      .  .    .      .     .     .
-002.0.18.1.norm  Ac nillaþ þā bēon ġiefan huniġ ōþrum ġesċeaftum
+002.0.18.1.flags c  .      .  .    .      .     .     .
+002.0.18.1.norm  ac nillaþ þā bēon ġiefan huniġ ōþrum ġesċeaftum
 
 002.0.18.2.text  Nillaþ ġiefan huniġ ne berum ne werum ne wīfum.
-002.0.18.2.flags .      .      .     .  .     .  .     .  .
-002.0.18.2.norm  Nillaþ ġiefan huniġ ne berum ne werum ne wīfum
+002.0.18.2.flags c      .      .     .  .     .  .     .  .
+002.0.18.2.norm  nillaþ ġiefan huniġ ne berum ne werum ne wīfum
 
 002.0.19.1.text  Hū cann bera þonne etan huniġ? Bera þearf niman þæt huniġ.
-002.0.19.1.flags .  .    .    .     .    .      .    .     .     .   .
-002.0.19.1.norm  Hū cann bera þonne etan huniġ? Bera þearf niman þæt huniġ
+002.0.19.1.flags c  .    .    .     .    .      c    .     .     .   .
+002.0.19.1.norm  hū cann bera þonne etan huniġ? bera þearf niman þæt huniġ
 
 002.0.20.1.text  For þām þearf Osweald niman huniġ þām bēom.
-002.0.20.1.flags .   .   .     .       .     .     .   .
-002.0.20.1.norm  For þām þearf Osweald niman huniġ þām bēom
+002.0.20.1.flags c   .   .     .       .     .     .   .
+002.0.20.1.norm  for þām þearf Osweald niman huniġ þām bēom
 
 002.0.22.1.text  Ne sċeal Oswealt niman þæt huniġ on dæġe, ac on nihte.
-002.0.22.1.flags .  .     .       .     .   .     .  .     .  .  .
-002.0.22.1.norm  Ne sċeal Oswealt niman þæt huniġ on dæġe  ac on nihte
+002.0.22.1.flags c  .     c       .     .   .     .  .     .  .  .
+002.0.22.1.norm  ne sċeal oswealt niman þæt huniġ on dæġe  ac on nihte
 
 002.0.22.2.text  On dæġe waciaþ þā bēon, ac on nihte slǣpaþ hīe.
-002.0.22.2.flags .  .    .      .  .     .  .  .     .      .
-002.0.22.2.norm  On dæġe waciaþ þā bēon  ac on nihte slǣpaþ hīe
+002.0.22.2.flags c  .    .      .  .     .  .  .     .      .
+002.0.22.2.norm  on dæġe waciaþ þā bēon  ac on nihte slǣpaþ hīe
 
 002.0.22.3.text  Þā þā hīe slǣpaþ, ne cunnon hīe sċeþþan hine.
-002.0.22.3.flags .  .  .   .       .  .      .   .       .
-002.0.22.3.norm  Þā þā hīe slǣpaþ  ne cunnon hīe sċeþþan hine
+002.0.22.3.flags c  .  .   .       .  .      .   .       .
+002.0.22.3.norm  þā þā hīe slǣpaþ  ne cunnon hīe sċeþþan hine
 
 002.0.23.1.text  For þām bītt Osweald oþ nihte.
-002.0.23.1.flags .   .   .    .       .  .
-002.0.23.1.norm  For þām bītt Osweald oþ nihte
+002.0.23.1.flags c   .   .    .       .  .
+002.0.23.1.norm  for þām bītt Osweald oþ nihte
 
 002.0.23.2.text  Þā cann hē niman þæt huniġ þām bēom.
-002.0.23.2.flags .  .    .  .     .   .     .   .
-002.0.23.2.norm  Þā cann hē niman þæt huniġ þām bēom
+002.0.23.2.flags c  .    .  .     .   .     .   .
+002.0.23.2.norm  þā cann hē niman þæt huniġ þām bēom
 
 002.0.23.3.text  For þām þe þā bēon slǣpaþ on nihte, ne cunnon hīe sċeþþan hine.
-002.0.23.3.flags .   .   .  .  .    .      .  .      .  .      .   .       .
-002.0.23.3.norm  For þām þe þā bēon slǣpaþ on nihte  ne cunnon hīe sċeþþan hine
+002.0.23.3.flags c   .   .  .  .    .      .  .      .  .      .   .       .
+002.0.23.3.norm  for þām þe þā bēon slǣpaþ on nihte  ne cunnon hīe sċeþþan hine
 
 002.0.24.1.text  Þonne cymþ niht.
-002.0.24.1.flags .     .    .
-002.0.24.1.norm  Þonne cymþ niht
+002.0.24.1.flags c     .    .
+002.0.24.1.norm  þonne cymþ niht
 
 002.0.24.2.text  þā bēon slǣpaþ.
 002.0.24.2.flags .  .    .
 002.0.24.2.norm  þā bēon slǣpaþ
 
 002.0.25.1.text  Þā nimþ Osweald þæt huniġ þām bēom.
-002.0.25.1.flags .  .    .       .   .     .   .
-002.0.25.1.norm  Þā nimþ Osweald þæt huniġ þām bēom
+002.0.25.1.flags c  .    .       .   .     .   .
+002.0.25.1.norm  þā nimþ Osweald þæt huniġ þām bēom
 
 002.0.25.2.text  For þām þe þā bēon slǣpaþ, ne sċeþþaþ þā bēon hine.
-002.0.25.2.flags .   .   .  .  .    .       .  .       .  .    .
-002.0.25.2.norm  For þām þe þā bēon slǣpaþ  ne sċeþþaþ þā bēon hine
+002.0.25.2.flags c   .   .  .  .    .       .  .       .  .    .
+002.0.25.2.norm  for þām þe þā bēon slǣpaþ  ne sċeþþaþ þā bēon hine
 
 002.0.26.1.text  Ac sum bēo wacaþ!
-002.0.26.1.flags .  .   .   .
-002.0.26.1.norm  Ac sum bēo wacaþ
+002.0.26.1.flags c  .   .   .
+002.0.26.1.norm  ac sum bēo wacaþ
 
 002.0.26.2.text  Sēo bēo ġesiehþ Osweald Beran.
-002.0.26.2.flags .   .   .       .       .
-002.0.26.2.norm  Sēo bēo ġesiehþ Osweald Beran
+002.0.26.2.flags c   .   .       .       c
+002.0.26.2.norm  sēo bēo ġesiehþ Osweald beran
 
 002.0.26.3.text  Sēo bēo wile sċeþþan Osweald, for þām þe hē nimþ þæt huniġ þām bēom.
-002.0.26.3.flags .   .   .    .       .        .   .   .  .  .    .   .     .   .
-002.0.26.3.norm  Sēo bēo wile sċeþþan Osweald  for þām þe hē nimþ þæt huniġ þām bēom
+002.0.26.3.flags c   .   .    .       .        .   .   .  .  .    .   .     .   .
+002.0.26.3.norm  sēo bēo wile sċeþþan Osweald  for þām þe hē nimþ þæt huniġ þām bēom
 
 002.0.27.1.text  Sēo bēo flīēġþ onġēan Osweald.
-002.0.27.1.flags .   .   .      .      .
-002.0.27.1.norm  Sēo bēo flīēġþ onġēan Osweald
+002.0.27.1.flags c   .   .      .      .
+002.0.27.1.norm  sēo bēo flīēġþ onġēan Osweald
 
 002.0.27.2.text  Ac hēo ne sċeþeþ Osweald.
-002.0.27.2.flags .  .   .  .      .
-002.0.27.2.norm  Ac hēo ne sċeþeþ Osweald
+002.0.27.2.flags c  .   .  .      .
+002.0.27.2.norm  ac hēo ne sċeþeþ Osweald

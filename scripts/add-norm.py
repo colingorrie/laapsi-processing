@@ -9,28 +9,15 @@ from utils import print_interlinear
 
 from greek_normalisation.normalise import Normaliser, Norm
 
-config = (Norm.GRAVE
-          | Norm.ELISION
-          | Norm.MOVABLE
-          | Norm.EXTRA
-          | Norm.PROCLITIC
-          | Norm.ENCLITIC)
+config = (Norm.CAPITALISED)
+proper_nouns = set(
+    ["Engla-land", "Osweald", "Wintanċeaster", "Æþelrǣd", "Ælfġiefu"])
 
 
 def format_flags(flags):
     s = ""
-    if flags & Norm.PROCLITIC:
-        s += "p"
-    if flags & Norm.ENCLITIC:
-        s += "n"
-    if flags & Norm.GRAVE:
-        s += "g"
-    if flags & Norm.EXTRA:
-        s += "x"
-    if flags & Norm.ELISION:
-        s += "l"
-    if flags & Norm.MOVABLE:
-        s += "m"
+    if flags & Norm.CAPITALISED:
+        s += "c"
 
     if s == "":
         s = "."
@@ -38,7 +25,7 @@ def format_flags(flags):
     return s
 
 
-normalise = Normaliser(config).normalise
+normalise = Normaliser(config, proper_nouns).normalise
 
 for chapter_num in range(1, N_CHAPTERS + 1):
     input_filename = f"text/{TEXT_NAME}.sent.{chapter_num:03d}.txt"
