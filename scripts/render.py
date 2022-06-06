@@ -5,8 +5,9 @@ from collections import defaultdict
 import json
 
 from pyuca import Collator
-coll = Collator()
+from constants import N_CHAPTERS, TEXT_NAME
 
+coll = Collator()
 
 HEADER = """\
 <head>
@@ -65,25 +66,23 @@ HEADER = """\
 
 HEADER += f'<div>'
 
-for chapter_num in range(1, 20):
-    HEADER += f'<a href="lgpsi_{chapter_num:03d}.html">{chapter_num:03d}</a>\n'
+for chapter_num in range(1, N_CHAPTERS + 1):
+    HEADER += f'<a href="${TEXT_NAME}_{chapter_num:03d}.html">{chapter_num:03d}</a>\n'
 
 HEADER += f'</div><div>'
 
-for chapter_num in range(1, 20):
-    HEADER += f'<a href="lgpsi_{chapter_num:03d}_report.html">{chapter_num:03d}_report</a>\n'
+for chapter_num in range(1, N_CHAPTERS + 1):
+    HEADER += f'<a href="{TEXT_NAME}_{chapter_num:03d}_report.html">{chapter_num:03d}_report</a>\n'
 
-HEADER += f'</div><div><a href="lgpsi_lemma_index.html">alphabetical index</a>\n'
-HEADER += f'| <a href="lgpsi_ref_index.html">index by ref</a></div>\n'
+HEADER += f'</div><div><a href="{TEXT_NAME}_lemma_index.html">alphabetical index</a>\n'
+HEADER += f'| <a href="{TEXT_NAME}_ref_index.html">index by ref</a></div>\n'
 HEADER += f'</nav>\n'
-
-
 
 index_by_ref = defaultdict(list)
 
-for chapter_num in range(1, 20):
-    input_filename = f"analysis/lgpsi.sent.{chapter_num:03d}.exposures.txt"
-    output_filename = f"docs/lgpsi_{chapter_num:03d}.html"
+for chapter_num in range(1, N_CHAPTERS + 1):
+    input_filename = f"analysis/{TEXT_NAME}.sent.{chapter_num:03d}.exposures.txt"
+    output_filename = f"docs/{TEXT_NAME}_{chapter_num:03d}.html"
 
     with open(input_filename) as f, open(output_filename, "w") as g:
 
@@ -121,7 +120,9 @@ for chapter_num in range(1, 20):
                     print(f'<p><span class="ref">{para_ref}</span>', file=g)
                     prev_para_ref = para_ref
 
-                for token, lemma, normexp, lemmaexp in zip(text_list[1:], lemma_list[1:], normexp_list[1:], lemmaexp_list[1:]):
+                for token, lemma, normexp, lemmaexp in zip(
+                        text_list[1:], lemma_list[1:], normexp_list[1:],
+                        lemmaexp_list[1:]):
                     if lemmaexp == "1":
                         text.append(f'<span class="new-lemma">{token}</span>')
                         index_by_ref[para_ref].append(lemma)
@@ -132,13 +133,9 @@ for chapter_num in range(1, 20):
 
         print(" ".join(text), file=g)
 
-
-
-
 index_by_lemma = {}
 
-
-output_filename = f"docs/lgpsi_ref_index.html"
+output_filename = f"docs/{TEXT_NAME}_ref_index.html"
 
 with open(output_filename, "w") as g:
 
@@ -146,11 +143,13 @@ with open(output_filename, "w") as g:
 
     print("<h1>New Lemma Exposures by Ref</h1>", file=g)
     for ref, lemma_list in index_by_ref.items():
-      print(f'<div><span class="ref">{ref}</span> {" ".join(lemma_list)}</div>', file=g)
-      for lemma in lemma_list:
-        index_by_lemma[lemma] = ref
+        print(
+            f'<div><span class="ref">{ref}</span> {" ".join(lemma_list)}</div>',
+            file=g)
+        for lemma in lemma_list:
+            index_by_lemma[lemma] = ref
 
-output_filename = f"docs/lgpsi_lemma_index.html"
+output_filename = f"docs/{TEXT_NAME}_lemma_index.html"
 
 with open(output_filename, "w") as g:
 
@@ -158,21 +157,22 @@ with open(output_filename, "w") as g:
 
     print("<h1>New Lemma Exposures Alphabetically</h1>", file=g)
     for lemma in sorted(index_by_lemma, key=coll.sort_key):
-      print(f'<div>{lemma} <span class="ref">{index_by_lemma[lemma]}</span></div>', file=g)
+        print(
+            f'<div>{lemma} <span class="ref">{index_by_lemma[lemma]}</span></div>',
+            file=g)
 
-
-for chapter_num in range(1, 20):
-    input_filename = f"analysis/lgpsi.{chapter_num:03d}.json"
-    output_filename = f"docs/lgpsi_{chapter_num:03d}_report.html"
+for chapter_num in range(1, N_CHAPTERS + 1):
+    input_filename = f"analysis/{TEXT_NAME}.{chapter_num:03d}.json"
+    output_filename = f"docs/{TEXT_NAME}_{chapter_num:03d}_report.html"
 
     data = json.load(open(input_filename))
     with open(output_filename, "w") as g:
 
-      print(HEADER, file=g)
+        print(HEADER, file=g)
 
-      print(f"<h1>Chapter {chapter_num} Report</h1>", file=g)
+        print(f"<h1>Chapter {chapter_num} Report</h1>", file=g)
 
-      print(f"""
+        print(f"""
         <table>
           <tr>
             <th>&nbsp;</th>
@@ -190,38 +190,51 @@ for chapter_num in range(1, 20):
             <td>{data['new_form_tokens']} / {data['form_tokens']}</td>
           </tr>
         </table>
-      """, file=g)
+      """,
+              file=g)
 
-      for lemma, lemma_data in data["lemmas"].items():
+        for lemma, lemma_data in data["lemmas"].items():
 
-          print(f'<div class="lemma-entry">', file=g)
-          print(f'<h2>{lemma}</h2>', file=g)
-          print('<table class="lemma-data"><tr>', file=g)
-          if lemma_data["cumulative_last_seen"]:
-              print(f'<td>Last seen chapter: {lemma_data["cumulative_last_seen"]}</td>', file=g)
-              print(f'<td>Count before now: {lemma_data["cumulative_lemma_count"]}</td>', file=g)
-          else:
-              print(f'<td colspan="2">New in this chapter.</td>', file=g)
-          if lemma_data["chapter_lemma_count"]:
-              print(f'<td>Appears {lemma_data["chapter_lemma_count"]} time{"s" if lemma_data["chapter_lemma_count"] > 1 else ""} in this chapter.</td>', file=g)
-          else:
-              print(f'<td>Not in chapter {chapter_num}.</td>', file=g)
-          print('</tr></table>', file=g)
+            print(f'<div class="lemma-entry">', file=g)
+            print(f'<h2>{lemma}</h2>', file=g)
+            print('<table class="lemma-data"><tr>', file=g)
+            if lemma_data["cumulative_last_seen"]:
+                print(
+                    f'<td>Last seen chapter: {lemma_data["cumulative_last_seen"]}</td>',
+                    file=g)
+                print(
+                    f'<td>Count before now: {lemma_data["cumulative_lemma_count"]}</td>',
+                    file=g)
+            else:
+                print(f'<td colspan="2">New in this chapter.</td>', file=g)
+            if lemma_data["chapter_lemma_count"]:
+                print(
+                    f'<td>Appears {lemma_data["chapter_lemma_count"]} time{"s" if lemma_data["chapter_lemma_count"] > 1 else ""} in this chapter.</td>',
+                    file=g)
+            else:
+                print(f'<td>Not in chapter {chapter_num}.</td>', file=g)
+            print('</tr></table>', file=g)
 
-          print('<table class="forms">', file=g)
-          for form, form_data in lemma_data["forms"].items():
-              print('<tr>', file=g)
-              print(f'<th>{form}</th>', file=g)
-              if form_data["cumulative_lemma_form_last_seen"]:
-                  print(f'<td>Last seen chapter: {form_data["cumulative_lemma_form_last_seen"]}</td>', file=g)
-                  print(f'<td>Count before now: {form_data["cumulative_lemma_form_count"]}</td>', file=g)
-              else:
-                  print(f'<td colspan="2">New in this chapter.</td>', file=g)
-              if form_data["chapter_lemma_form_count"]:
-                  print(f'<td>Appears {form_data["chapter_lemma_form_count"]} time{"s" if form_data["chapter_lemma_form_count"] > 1 else ""} in this chapter.</td>', file=g)
-              else:
-                  print(f'<td>Not in chapter {chapter_num}.</td>', file=g)
-              print('</tr>', file=g)
-          print('</table>', file=g)
+            print('<table class="forms">', file=g)
+            for form, form_data in lemma_data["forms"].items():
+                print('<tr>', file=g)
+                print(f'<th>{form}</th>', file=g)
+                if form_data["cumulative_lemma_form_last_seen"]:
+                    print(
+                        f'<td>Last seen chapter: {form_data["cumulative_lemma_form_last_seen"]}</td>',
+                        file=g)
+                    print(
+                        f'<td>Count before now: {form_data["cumulative_lemma_form_count"]}</td>',
+                        file=g)
+                else:
+                    print(f'<td colspan="2">New in this chapter.</td>', file=g)
+                if form_data["chapter_lemma_form_count"]:
+                    print(
+                        f'<td>Appears {form_data["chapter_lemma_form_count"]} time{"s" if form_data["chapter_lemma_form_count"] > 1 else ""} in this chapter.</td>',
+                        file=g)
+                else:
+                    print(f'<td>Not in chapter {chapter_num}.</td>', file=g)
+                print('</tr>', file=g)
+            print('</table>', file=g)
 
-          print('</div>', file=g)
+            print('</div>', file=g)

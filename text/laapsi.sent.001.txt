@@ -1,0 +1,57 @@
+001.0.01.1 On Engla-lande is sum holt.
+001.0.01.2 On holte is sum bera.
+001.0.02.1 Hwæt is on þām holte? Sum bera is on holte.
+001.0.03.1 Sē bera hātte Osweald.
+001.0.03.2 Osweald is his nama.
+001.0.04.1 Osweald Bera wunaþ on holte.
+001.0.05.1 Wunaþ Osweald on hūse? Nese, ne wunaþ hē on hūse, ac on holte.
+001.0.06.1 Hwǣr wunaþ Osweald Bera? Hē wunaþ on holte.
+001.0.07.1 Hwā wunaþ on holte? Witodlīċe wunaþ Osweald Bera þǣr!
+001.0.08.1 Hwæt is Osweald? Osweald is bera.
+001.0.09.1 Is Osweald wer? Nese, nis Osweald wer.
+001.0.09.2 Witodlīċe is Osweald bera!
+001.0.10.1 On Engla-lande is ēac sum tūn.
+001.0.10.2 Sē tūn hātte Wintanċeaster.
+001.0.11.1 Ne wunaþ Osweald Bera on Wintanċeastre tūne.
+001.0.11.2 Hē wunaþ on holte.
+001.0.12.1 Hwā wunaþ on Wintanċeastre? Sē cyning!
+001.0.12.2 Sē cyning wunaþ on Wintanċeastre.
+001.0.13.1 Is sē cyning bera? Nese, nis sē cyning bera.
+001.0.13.2 Hwæt is sē cyning? Sē cyning is wer.
+001.0.14.1 Hwæt hātte sē cyning? Sē cyning hātte Æþelrǣd.
+001.0.14.2 Æþelrǣd is his nama.
+001.0.15.1 Is sē cyning wīf? Nese, nis sē cyning wīf.
+001.0.15.2 Hē is wer!
+001.0.16.1 Ac sum wīf wunaþ on Wintanċeastre.
+001.0.16.2 Hwā? Sēo cwēn!
+001.0.16.3 Sēo cwēn is wīf.
+001.0.16.4 Nis hēo wer, ac wīf.
+001.0.16.5 And hēo wunaþ on Wintanċeastre.
+001.0.17.1 Hwæt hātte sēo cwēn? Sēo cwēn hātte Ælfġiefu.
+001.0.17.2 Ælfġiefu is hire nama.
+001.0.18.1 Sē cyning and sēo cwēn wuniaþ on Wintanċeastre, ac Osweald Bera wunaþ on holte.
+001.0.19.1 Wuniaþ sē cyning and sēo cwēn on holte? Nese, ne wuniaþ hīe on holte.
+001.0.19.2 Hīe wuniaþ on tūne.
+001.0.20.1 Wunaþ Osweald Bera on tūne? Nese, ne wunaþ hē on tūne.
+001.0.20.2 Hē wunaþ on holte.
+001.0.21.1 Hwȳ wunaþ Osweald on holte? Osweald wunaþ on holte for þām þe hē is bera.
+001.0.21.2 And beran wuniaþ on holte, nā on tūne.
+001.0.22.1 Wuniaþ maniġe beran on holte? Nese, ne wuniaþ maniġe beran on holte.
+001.0.22.2 Ne wuniaþ maniġe beran on Engla-lande!
+001.0.23.1 Wuniaþ maniġe weras on tūne? Ġiese, maniġe weras wuniaþ on tūne, and ēac maniġe wīf.
+001.0.23.2 Fēawe weras wuniaþ on holte, and ēac fēaw wīf.
+001.0.24.1 Elles hwæt is þǣr on tūne? In tūne sindon maniġe hūs.
+001.0.24.2 Hwȳ sindon þǣr maniġe hūs on tūne? Þǣr sindon maniġe hūs on tūne, for þām þe þǣr maniġe weras and wīf wuniaþ.
+001.0.25.1 Sē cyning and sēo cwēn ēac wuniaþ on tūne.
+001.0.25.2 Wuniaþ hīe on lȳtelum hūse? Nese!
+001.0.25.3 Ne wunaþ sē cyning and sēo cwēn on lȳtelum hūse.
+001.0.25.4 Hīe wuniaþ on miċelum sele.
+001.0.25.5 (Sele is miċel hūs, nā lȳtel hūs.)
+001.0.26.1 Osweald is miċel bera, ac his holt is lȳtel.
+001.0.26.2 For þām þe hē on lȳtelum holte wunaþ, hē wile his holt ġewītan.
+001.0.27.1 Hwæt wile Osweald Bera? Hē wile his holt ġewītan.
+001.0.29.1 Osweald wile his holt ġewītan, for þām þe he wile tūn ġesēon.
+001.0.29.2 Hē wile weras and wīf ġesēon.
+001.0.29.3 Hē wile hūs ġesēon.
+001.0.29.4 Hē wile Æþelrǣd Cyning and Ælfġiefe Cwēne ġesēon.
+001.0.29.5 Hē wile middanġeard ġesēon!

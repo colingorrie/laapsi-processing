@@ -1,0 +1,28 @@
+002.0.00 Se ōþer capitol
+002.0.01 Osweald Bera wunaþ in lȳtelum holte, ac hē wile middanġeard ġesēon. For þām wile hē his holt ġewītan and fēran tō Wintanċeastre tūne.
+002.0.02 Osweald þearf fēran fram holte tō tūne. And fēran fram holte tō tūne is lang sīþ.
+002.0.03 For þām þearf hē mete.
+002.0.04 Hwelċ mete is þǣr on holte? Is þǣr hlāf on holte? Nese, nis þǣr hlāf on holte. Is þǣr ċīese on holte? Nese, nis þǣr ċīese on holte. Ac þǣr is hlāf and ċīese on tūne.
+002.0.05 Hlāf is gōd mete. Weras and wīf etaþ hlāf. Hlāf is gōd mete werum and wīfum.
+002.0.06 Ċīese is ēac gōd mete. Weras and wīf etaþ ēac ċīese. Ċīese is gōd mete werum and wīfum.
+002.0.07 Hwelċ mete is þonne þǣr on holte? Þǣr sindon fisċas in holte. Beran etaþ fisċas. Fisċas sindon gōd mete beran.
+002.0.08 Þǣr sindon ēac berġan on holte. Berġan sindon gōd mete beran.
+002.0.09 Þǣr is ēac huniġ on holte. Huniġ is ēac gōd mete beran.
+002.0.10 Fisċas and berġan and huniġ sindon gōd mete beran.
+002.0.11 Osweald þearf sēċan mete on holte: oþþe fisċas, oþþe berġan, oþþe huniġ.
+002.0.12 Ǣrest seċeþ hē fisċas. Ac ne fint hē fisċas. Hæfþ sē holt fisċas? Nese, næfþ sē holt fisċas.
+002.0.13 Þā seċeþ hē berġan. Ac ne fint hē berġan. Hæfþ sē holt berġan? Nese, næfþ sē holt berġan.
+002.0.14 Þā seċeþ hē huniġ. And sōþlīċe fint hē huniġ. Hæfþ sē holt huniġ? Ġiese, sē holt hæfþ huniġ. Þǣr is huniġ on þām holte.
+002.0.15 Hwā wyrċaþ huniġ? Bēon.
+002.0.16 Hwæt sindon bēon? Bēon sindon lȳtele ġesċeafte. Hīe wyrċaþ huniġ. Hīe cunnon sċeþþan ōþre ġesċeafte!
+002.0.17 Ōþre ġesċeafte willaþ etan huniġ: beran sindon miċele ġesċeafte and hīe willaþ etan huniġ. Weras and wīf ēac willaþ etan huniġ.
+002.0.18 Ac nillaþ þā bēon ġiefan huniġ ōþrum ġesċeaftum. Nillaþ ġiefan huniġ ne berum ne werum ne wīfum.
+002.0.19 Hū cann bera þonne etan huniġ? Bera þearf niman þæt huniġ.
+002.0.20 For þām þearf Osweald niman huniġ þām bēom.
+002.0.21 Hū sċeal hē niman þæt huniġ þām bēom?
+002.0.22 Ne sċeal Oswealt niman þæt huniġ on dæġe, ac on nihte. On dæġe waciaþ þā bēon, ac on nihte slǣpaþ hīe. Þā þā hīe slǣpaþ, ne cunnon hīe sċeþþan hine.
+002.0.23 For þām bītt Osweald oþ nihte. Þā cann hē niman þæt huniġ þām bēom. For þām þe þā bēon slǣpaþ on nihte, ne cunnon hīe sċeþþan hine.
+002.0.24 Þonne cymþ niht. þā bēon slǣpaþ.
+002.0.25 Þā nimþ Osweald þæt huniġ þām bēom. For þām þe þā bēon slǣpaþ, ne sċeþþaþ þā bēon hine.
+002.0.26 Ac sum bēo wacaþ! Sēo bēo ġesiehþ Osweald Beran. Sēo bēo wile sċeþþan Osweald, for þām þe hē nimþ þæt huniġ þām bēom.
+002.0.27 Sēo bēo flīēġþ onġēan Osweald. Ac hēo ne sċeþeþ Osweald.

@@ -1,0 +1,30 @@
+001.0.00 Se forma capitol
+001.0.01 On Engla-lande is sum holt. On holte is sum bera.
+001.0.02 Hwæt is on þām holte? Sum bera is on holte.
+001.0.03 Sē bera hātte Osweald. Osweald is his nama.
+001.0.04 Osweald Bera wunaþ on holte.
+001.0.05 Wunaþ Osweald on hūse? Nese, ne wunaþ hē on hūse, ac on holte.
+001.0.06 Hwǣr wunaþ Osweald Bera? Hē wunaþ on holte.
+001.0.07 Hwā wunaþ on holte? Witodlīċe wunaþ Osweald Bera þǣr!
+001.0.08 Hwæt is Osweald? Osweald is bera.
+001.0.09 Is Osweald wer? Nese, nis Osweald wer. Witodlīċe is Osweald bera!
+001.0.10 On Engla-lande is ēac sum tūn. Sē tūn hātte Wintanċeaster.
+001.0.11 Ne wunaþ Osweald Bera on Wintanċeastre tūne. Hē wunaþ on holte.
+001.0.12 Hwā wunaþ on Wintanċeastre? Sē cyning! Sē cyning wunaþ on Wintanċeastre.
+001.0.13 Is sē cyning bera? Nese, nis sē cyning bera. Hwæt is sē cyning? Sē cyning is wer.
+001.0.14 Hwæt hātte sē cyning? Sē cyning hātte Æþelrǣd. Æþelrǣd is his nama.
+001.0.15 Is sē cyning wīf? Nese, nis sē cyning wīf. Hē is wer!
+001.0.16 Ac sum wīf wunaþ on Wintanċeastre. Hwā? Sēo cwēn! Sēo cwēn is wīf. Nis hēo wer, ac wīf. And hēo wunaþ on Wintanċeastre.
+001.0.17 Hwæt hātte sēo cwēn? Sēo cwēn hātte Ælfġiefu. Ælfġiefu is hire nama.
+001.0.18 Sē cyning and sēo cwēn wuniaþ on Wintanċeastre, ac Osweald Bera wunaþ on holte.
+001.0.19 Wuniaþ sē cyning and sēo cwēn on holte? Nese, ne wuniaþ hīe on holte. Hīe wuniaþ on tūne.
+001.0.20 Wunaþ Osweald Bera on tūne? Nese, ne wunaþ hē on tūne. Hē wunaþ on holte.
+001.0.21 Hwȳ wunaþ Osweald on holte? Osweald wunaþ on holte for þām þe hē is bera. And beran wuniaþ on holte, nā on tūne.
+001.0.22 Wuniaþ maniġe beran on holte? Nese, ne wuniaþ maniġe beran on holte. Ne wuniaþ maniġe beran on Engla-lande!
+001.0.23 Wuniaþ maniġe weras on tūne? Ġiese, maniġe weras wuniaþ on tūne, and ēac maniġe wīf. Fēawe weras wuniaþ on holte, and ēac fēaw wīf.
+001.0.24 Elles hwæt is þǣr on tūne? In tūne sindon maniġe hūs. Hwȳ sindon þǣr maniġe hūs on tūne? Þǣr sindon maniġe hūs on tūne, for þām þe þǣr maniġe weras and wīf wuniaþ.
+001.0.25 Sē cyning and sēo cwēn ēac wuniaþ on tūne. Wuniaþ hīe on lȳtelum hūse? Nese! Ne wunaþ sē cyning and sēo cwēn on lȳtelum hūse. Hīe wuniaþ on miċelum sele. (Sele is miċel hūs, nā lȳtel hūs.)
+001.0.26 Osweald is miċel bera, ac his holt is lȳtel. For þām þe hē on lȳtelum holte wunaþ, hē wile his holt ġewītan.
+001.0.27 Hwæt wile Osweald Bera? Hē wile his holt ġewītan.
+001.0.28 Hwȳ wile Osweald Bera his holt ġewītan?
+001.0.29 Osweald wile his holt ġewītan, for þām þe he wile tūn ġesēon. Hē wile weras and wīf ġesēon. Hē wile hūs ġesēon. Hē wile Æþelrǣd Cyning and Ælfġiefe Cwēne ġesēon. Hē wile middanġeard ġesēon!

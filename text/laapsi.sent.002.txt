@@ -1,0 +1,58 @@
+002.0.01.1 Osweald Bera wunaþ in lȳtelum holte, ac hē wile middanġeard ġesēon.
+002.0.01.2 For þām wile hē his holt ġewītan and fēran tō Wintanċeastre tūne.
+002.0.02.1 Osweald þearf fēran fram holte tō tūne.
+002.0.02.2 And fēran fram holte tō tūne is lang sīþ.
+002.0.03.1 For þām þearf hē mete.
+002.0.04.1 Hwelċ mete is þǣr on holte? Is þǣr hlāf on holte? Nese, nis þǣr hlāf on holte.
+002.0.04.2 Is þǣr ċīese on holte? Nese, nis þǣr ċīese on holte.
+002.0.04.3 Ac þǣr is hlāf and ċīese on tūne.
+002.0.05.1 Hlāf is gōd mete.
+002.0.05.2 Weras and wīf etaþ hlāf.
+002.0.05.3 Hlāf is gōd mete werum and wīfum.
+002.0.06.1 Ċīese is ēac gōd mete.
+002.0.06.2 Weras and wīf etaþ ēac ċīese.
+002.0.06.3 Ċīese is gōd mete werum and wīfum.
+002.0.07.1 Hwelċ mete is þonne þǣr on holte? Þǣr sindon fisċas in holte.
+002.0.07.2 Beran etaþ fisċas.
+002.0.07.3 Fisċas sindon gōd mete beran.
+002.0.08.1 Þǣr sindon ēac berġan on holte.
+002.0.08.2 Berġan sindon gōd mete beran.
+002.0.09.1 Þǣr is ēac huniġ on holte.
+002.0.09.2 Huniġ is ēac gōd mete beran.
+002.0.10.1 Fisċas and berġan and huniġ sindon gōd mete beran.
+002.0.11.1 Osweald þearf sēċan mete on holte: oþþe fisċas, oþþe berġan, oþþe huniġ.
+002.0.12.1 Ǣrest seċeþ hē fisċas.
+002.0.12.2 Ac ne fint hē fisċas.
+002.0.12.3 Hæfþ sē holt fisċas? Nese, næfþ sē holt fisċas.
+002.0.13.1 Þā seċeþ hē berġan.
+002.0.13.2 Ac ne fint hē berġan.
+002.0.13.3 Hæfþ sē holt berġan? Nese, næfþ sē holt berġan.
+002.0.14.1 Þā seċeþ hē huniġ.
+002.0.14.2 And sōþlīċe fint hē huniġ.
+002.0.14.3 Hæfþ sē holt huniġ? Ġiese, sē holt hæfþ huniġ.
+002.0.14.4 Þǣr is huniġ on þām holte.
+002.0.15.1 Hwā wyrċaþ huniġ? Bēon.
+002.0.16.1 Hwæt sindon bēon? Bēon sindon lȳtele ġesċeafte.
+002.0.16.2 Hīe wyrċaþ huniġ.
+002.0.16.3 Hīe cunnon sċeþþan ōþre ġesċeafte!
+002.0.17.1 Ōþre ġesċeafte willaþ etan huniġ: beran sindon miċele ġesċeafte and hīe willaþ etan huniġ.
+002.0.17.2 Weras and wīf ēac willaþ etan huniġ.
+002.0.18.1 Ac nillaþ þā bēon ġiefan huniġ ōþrum ġesċeaftum.
+002.0.18.2 Nillaþ ġiefan huniġ ne berum ne werum ne wīfum.
+002.0.19.1 Hū cann bera þonne etan huniġ? Bera þearf niman þæt huniġ.
+002.0.20.1 For þām þearf Osweald niman huniġ þām bēom.
+002.0.22.1 Ne sċeal Oswealt niman þæt huniġ on dæġe, ac on nihte.
+002.0.22.2 On dæġe waciaþ þā bēon, ac on nihte slǣpaþ hīe.
+002.0.22.3 Þā þā hīe slǣpaþ, ne cunnon hīe sċeþþan hine.
+002.0.23.1 For þām bītt Osweald oþ nihte.
+002.0.23.2 Þā cann hē niman þæt huniġ þām bēom.
+002.0.23.3 For þām þe þā bēon slǣpaþ on nihte, ne cunnon hīe sċeþþan hine.
+002.0.24.1 Þonne cymþ niht.
+002.0.24.2 þā bēon slǣpaþ.
+002.0.25.1 Þā nimþ Osweald þæt huniġ þām bēom.
+002.0.25.2 For þām þe þā bēon slǣpaþ, ne sċeþþaþ þā bēon hine.
+002.0.26.1 Ac sum bēo wacaþ!
+002.0.26.2 Sēo bēo ġesiehþ Osweald Beran.
+002.0.26.3 Sēo bēo wile sċeþþan Osweald, for þām þe hē nimþ þæt huniġ þām bēom.
+002.0.27.1 Sēo bēo flīēġþ onġēan Osweald.
+002.0.27.2 Ac hēo ne sċeþeþ Osweald.

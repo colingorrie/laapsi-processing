@@ -1,19 +1,19 @@
 #!/usr/bin/env python3
-
 """
 adds exposure counts for both lemmas and normalized forms to the interlinear.
 """
 
 from collections import Counter
+from constants import N_CHAPTERS, TEXT_NAME
 
 from utils import print_interlinear
 
 seen_norm = Counter()
 seen_lemma = Counter()
 
-for chapter_num in range(1, 20):
-    input_filename = f"analysis/lgpsi.sent.{chapter_num:03d}.lemma.txt"
-    output_filename = f"analysis/lgpsi.sent.{chapter_num:03d}.exposures.txt"
+for chapter_num in range(1, N_CHAPTERS + 1):
+    input_filename = f"analysis/{TEXT_NAME}.sent.{chapter_num:03d}.lemma.txt"
+    output_filename = f"analysis/{TEXT_NAME}.sent.{chapter_num:03d}.exposures.txt"
 
     with open(input_filename) as f, open(output_filename, "w") as g:
         for line in f:
@@ -42,4 +42,7 @@ for chapter_num in range(1, 20):
                     seen_lemma[lemma] += 1
                     lemmaexp_list.append(str(seen_lemma[lemma]))
 
-                print_interlinear([text_list, norm_list, flags_list, lemma_list, normexp_list, lemmaexp_list], g)
+                print_interlinear([
+                    text_list, norm_list, flags_list, lemma_list, normexp_list,
+                    lemmaexp_list
+                ], g)

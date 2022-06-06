@@ -1,13 +1,13 @@
 #!/usr/bin/env python3
-
 """
 converts the textpart-per-paragraph to textpart-per-sentence.
 """
 
+from constants import N_CHAPTERS, TEXT_NAME
 
-for chapter_num in range(1, 20):
-    input_filename = f"text/lgpsi.para.{chapter_num:03d}.txt"
-    output_filename = f"text/lgpsi.sent.{chapter_num:03d}.txt"
+for chapter_num in range(1, N_CHAPTERS + 1):
+    input_filename = f"text/{TEXT_NAME}.para.{chapter_num:03d}.txt"
+    output_filename = f"text/{TEXT_NAME}.sent.{chapter_num:03d}.txt"
 
     with open(input_filename) as f, open(output_filename, "w") as g:
         for line in f:
