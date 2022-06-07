@@ -5,7 +5,7 @@ converts the original files from Seumas into a textpart-per-paragraph format.
 
 import unicodedata
 
-from scripts.constants import N_CHAPTERS, TEXT_NAME
+from constants import N_CHAPTERS, TEXT_NAME
 
 for chapter_num in range(1, N_CHAPTERS + 1):
     input_filename = f"orig/{chapter_num:03d}.md"

@@ -1,7 +1,7 @@
 
 001.0.01.1.text  On Engla-lande is sum holt.
-001.0.01.1.flags c  c           .  .   .
-001.0.01.1.norm  on engla-lande is sum holt
+001.0.01.1.flags c  .           .  .   .
+001.0.01.1.norm  on Engla-lande is sum holt
 
 001.0.01.2.text  On holte is sum bera.
 001.0.01.2.flags c  .     .  .   .
@@ -9,7 +9,7 @@
 
 001.0.02.1.text  Hwæt is on þām holte? Sum bera is on holte.
 001.0.02.1.flags c    .  .  .   .      c   .    .  .  .
-001.0.02.1.norm  hwæt is on þām holte? sum bera is on holte
+001.0.02.1.norm  hwæt is on þām holte  sum bera is on holte
 
 001.0.03.1.text  Sē bera hātte Osweald.
 001.0.03.1.flags c  .    .     .
@@ -25,35 +25,35 @@
 
 001.0.05.1.text  Wunaþ Osweald on hūse? Nese, ne wunaþ hē on hūse, ac on holte.
 001.0.05.1.flags c     .       .  .     c     .  .     .  .  .     .  .  .
-001.0.05.1.norm  wunaþ Osweald on hūse? nese  ne wunaþ hē on hūse  ac on holte
+001.0.05.1.norm  wunaþ Osweald on hūse  nese  ne wunaþ hē on hūse  ac on holte
 
 001.0.06.1.text  Hwǣr wunaþ Osweald Bera? Hē wunaþ on holte.
 001.0.06.1.flags c    .     .       c     c  .     .  .
-001.0.06.1.norm  hwǣr wunaþ Osweald bera? hē wunaþ on holte
+001.0.06.1.norm  hwǣr wunaþ Osweald bera  hē wunaþ on holte
 
 001.0.07.1.text  Hwā wunaþ on holte? Witodlīċe wunaþ Osweald Bera þǣr!
 001.0.07.1.flags c   .     .  .      c         .     .       c    .
-001.0.07.1.norm  hwā wunaþ on holte? witodlīċe wunaþ Osweald bera þǣr
+001.0.07.1.norm  hwā wunaþ on holte  witodlīċe wunaþ Osweald bera þǣr
 
 001.0.08.1.text  Hwæt is Osweald? Osweald is bera.
-001.0.08.1.flags c    .  c        .       .  .
-001.0.08.1.norm  hwæt is osweald? Osweald is bera
+001.0.08.1.flags c    .  .        .       .  .
+001.0.08.1.norm  hwæt is Osweald  Osweald is bera
 
 001.0.09.1.text  Is Osweald wer? Nese, nis Osweald wer.
 001.0.09.1.flags c  .       .    c     .   .       .
-001.0.09.1.norm  is Osweald wer? nese  nis Osweald wer
+001.0.09.1.norm  is Osweald wer  nese  nis Osweald wer
 
 001.0.09.2.text  Witodlīċe is Osweald bera!
 001.0.09.2.flags c         .  .       .
 001.0.09.2.norm  witodlīċe is Osweald bera
 
 001.0.10.1.text  On Engla-lande is ēac sum tūn.
-001.0.10.1.flags c  c           .  .   .   .
-001.0.10.1.norm  on engla-lande is ēac sum tūn
+001.0.10.1.flags c  .           .  .   .   .
+001.0.10.1.norm  on Engla-lande is ēac sum tūn
 
 001.0.10.2.text  Sē tūn hātte Wintanċeaster.
-001.0.10.2.flags c  .   .     .
-001.0.10.2.norm  sē tūn hātte Wintanċeaster
+001.0.10.2.flags c  .   .     c
+001.0.10.2.norm  sē tūn hātte wintanċeaster
 
 001.0.11.1.text  Ne wunaþ Osweald Bera on Wintanċeastre tūne.
 001.0.11.1.flags c  .     .       c    .  c             .
@@ -65,7 +65,7 @@
 
 001.0.12.1.text  Hwā wunaþ on Wintanċeastre? Sē cyning!
 001.0.12.1.flags c   .     .  c              c  .
-001.0.12.1.norm  hwā wunaþ on wintanċeastre? sē cyning
+001.0.12.1.norm  hwā wunaþ on wintanċeastre  sē cyning
 
 001.0.12.2.text  Sē cyning wunaþ on Wintanċeastre.
 001.0.12.2.flags c  .      .     .  c
@@ -73,15 +73,15 @@
 
 001.0.13.1.text  Is sē cyning bera? Nese, nis sē cyning bera.
 001.0.13.1.flags c  .  .      .     c     .   .  .      .
-001.0.13.1.norm  is sē cyning bera? nese  nis sē cyning bera
+001.0.13.1.norm  is sē cyning bera  nese  nis sē cyning bera
 
 001.0.13.2.text  Hwæt is sē cyning? Sē cyning is wer.
 001.0.13.2.flags c    .  .  .       c  .      .  .
-001.0.13.2.norm  hwæt is sē cyning? sē cyning is wer
+001.0.13.2.norm  hwæt is sē cyning  sē cyning is wer
 
 001.0.14.1.text  Hwæt hātte sē cyning? Sē cyning hātte Æþelrǣd.
 001.0.14.1.flags c    .     .  .       c  .      .     .
-001.0.14.1.norm  hwæt hātte sē cyning? sē cyning hātte Æþelrǣd
+001.0.14.1.norm  hwæt hātte sē cyning  sē cyning hātte Æþelrǣd
 
 001.0.14.2.text  Æþelrǣd is his nama.
 001.0.14.2.flags .       .  .   .
@@ -89,7 +89,7 @@
 
 001.0.15.1.text  Is sē cyning wīf? Nese, nis sē cyning wīf.
 001.0.15.1.flags c  .  .      .    c     .   .  .      .
-001.0.15.1.norm  is sē cyning wīf? nese  nis sē cyning wīf
+001.0.15.1.norm  is sē cyning wīf  nese  nis sē cyning wīf
 
 001.0.15.2.text  Hē is wer!
 001.0.15.2.flags c  .  .
@@ -101,7 +101,7 @@
 
 001.0.16.2.text  Hwā? Sēo cwēn!
 001.0.16.2.flags c    c   .
-001.0.16.2.norm  hwā? sēo cwēn
+001.0.16.2.norm  hwā  sēo cwēn
 
 001.0.16.3.text  Sēo cwēn is wīf.
 001.0.16.3.flags c   .    .  .
@@ -117,7 +117,7 @@
 
 001.0.17.1.text  Hwæt hātte sēo cwēn? Sēo cwēn hātte Ælfġiefu.
 001.0.17.1.flags c    .     .   .     c   .    .     c
-001.0.17.1.norm  hwæt hātte sēo cwēn? sēo cwēn hātte ælfġiefu
+001.0.17.1.norm  hwæt hātte sēo cwēn  sēo cwēn hātte ælfġiefu
 
 001.0.17.2.text  Ælfġiefu is hire nama.
 001.0.17.2.flags c        .  .    .
@@ -129,7 +129,7 @@
 
 001.0.19.1.text  Wuniaþ sē cyning and sēo cwēn on holte? Nese, ne wuniaþ hīe on holte.
 001.0.19.1.flags c      .  .      .   .   .    .  .      c     .  .      .   .  .
-001.0.19.1.norm  wuniaþ sē cyning and sēo cwēn on holte? nese  ne wuniaþ hīe on holte
+001.0.19.1.norm  wuniaþ sē cyning and sēo cwēn on holte  nese  ne wuniaþ hīe on holte
 
 001.0.19.2.text  Hīe wuniaþ on tūne.
 001.0.19.2.flags c   .      .  .
@@ -137,7 +137,7 @@
 
 001.0.20.1.text  Wunaþ Osweald Bera on tūne? Nese, ne wunaþ hē on tūne.
 001.0.20.1.flags c     .       c    .  .     c     .  .     .  .  .
-001.0.20.1.norm  wunaþ Osweald bera on tūne? nese  ne wunaþ hē on tūne
+001.0.20.1.norm  wunaþ Osweald bera on tūne  nese  ne wunaþ hē on tūne
 
 001.0.20.2.text  Hē wunaþ on holte.
 001.0.20.2.flags c  .     .  .
@@ -145,7 +145,7 @@
 
 001.0.21.1.text  Hwȳ wunaþ Osweald on holte? Osweald wunaþ on holte for þām þe hē is bera.
 001.0.21.1.flags c   .     .       .  .      .       .     .  .     .   .   .  .  .  .
-001.0.21.1.norm  hwȳ wunaþ Osweald on holte? Osweald wunaþ on holte for þām þe hē is bera
+001.0.21.1.norm  hwȳ wunaþ Osweald on holte  Osweald wunaþ on holte for þām þe hē is bera
 
 001.0.21.2.text  And beran wuniaþ on holte, nā on tūne.
 001.0.21.2.flags c   .     .      .  .      .  .  .
@@ -153,15 +153,15 @@
 
 001.0.22.1.text  Wuniaþ maniġe beran on holte? Nese, ne wuniaþ maniġe beran on holte.
 001.0.22.1.flags c      .      .     .  .      c     .  .      .      .     .  .
-001.0.22.1.norm  wuniaþ maniġe beran on holte? nese  ne wuniaþ maniġe beran on holte
+001.0.22.1.norm  wuniaþ maniġe beran on holte  nese  ne wuniaþ maniġe beran on holte
 
 001.0.22.2.text  Ne wuniaþ maniġe beran on Engla-lande!
-001.0.22.2.flags c  .      .      .     .  c
-001.0.22.2.norm  ne wuniaþ maniġe beran on engla-lande
+001.0.22.2.flags c  .      .      .     .  .
+001.0.22.2.norm  ne wuniaþ maniġe beran on Engla-lande
 
 001.0.23.1.text  Wuniaþ maniġe weras on tūne? Ġiese, maniġe weras wuniaþ on tūne, and ēac maniġe wīf.
 001.0.23.1.flags c      .      .     .  .     c      .      .     .      .  .     .   .   .      .
-001.0.23.1.norm  wuniaþ maniġe weras on tūne? ġiese  maniġe weras wuniaþ on tūne  and ēac maniġe wīf
+001.0.23.1.norm  wuniaþ maniġe weras on tūne  ġiese  maniġe weras wuniaþ on tūne  and ēac maniġe wīf
 
 001.0.23.2.text  Fēawe weras wuniaþ on holte, and ēac fēaw wīf.
 001.0.23.2.flags c     .     .      .  .      .   .   .    .
@@ -169,11 +169,11 @@
 
 001.0.24.1.text  Elles hwæt is þǣr on tūne? In tūne sindon maniġe hūs.
 001.0.24.1.flags c     .    .  .   .  .     c  .    .      .      .
-001.0.24.1.norm  elles hwæt is þǣr on tūne? in tūne sindon maniġe hūs
+001.0.24.1.norm  elles hwæt is þǣr on tūne  in tūne sindon maniġe hūs
 
 001.0.24.2.text  Hwȳ sindon þǣr maniġe hūs on tūne? Þǣr sindon maniġe hūs on tūne, for þām þe þǣr maniġe weras and wīf wuniaþ.
 001.0.24.2.flags c   .      .   .      .   .  .     c   .      .      .   .  .     .   .   .  .   .      .     .   .   .
-001.0.24.2.norm  hwȳ sindon þǣr maniġe hūs on tūne? þǣr sindon maniġe hūs on tūne  for þām þe þǣr maniġe weras and wīf wuniaþ
+001.0.24.2.norm  hwȳ sindon þǣr maniġe hūs on tūne  þǣr sindon maniġe hūs on tūne  for þām þe þǣr maniġe weras and wīf wuniaþ
 
 001.0.25.1.text  Sē cyning and sēo cwēn ēac wuniaþ on tūne.
 001.0.25.1.flags c  .      .   .   .    .   .      .  .
@@ -181,7 +181,7 @@
 
 001.0.25.2.text  Wuniaþ hīe on lȳtelum hūse? Nese!
 001.0.25.2.flags c      .   .  .       .     c
-001.0.25.2.norm  wuniaþ hīe on lȳtelum hūse? nese
+001.0.25.2.norm  wuniaþ hīe on lȳtelum hūse  nese
 
 001.0.25.3.text  Ne wunaþ sē cyning and sēo cwēn on lȳtelum hūse.
 001.0.25.3.flags c  .     .  .      .   .   .    .  .       .
@@ -205,7 +205,7 @@
 
 001.0.27.1.text  Hwæt wile Osweald Bera? Hē wile his holt ġewītan.
 001.0.27.1.flags c    .    .       c     c  .    .   .    .
-001.0.27.1.norm  hwæt wile Osweald bera? hē wile his holt ġewītan
+001.0.27.1.norm  hwæt wile Osweald bera  hē wile his holt ġewītan
 
 001.0.29.1.text  Osweald wile his holt ġewītan, for þām þe he wile tūn ġesēon.
 001.0.29.1.flags .       .    .   .    .        .   .   .  .  .    .   .

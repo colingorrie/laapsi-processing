@@ -1,399 +1,399 @@
 
 001.0.01.1.text     On Engla-lande is sum holt.
-001.0.01.1.norm     On Engla-lande is sum holt
-001.0.01.1.flags    .  .           .  .   .
-001.0.01.1.lemma    -  -           -  -   -
+001.0.01.1.norm     on Engla-lande is sum holt
+001.0.01.1.flags    c  .           .  .   .
+001.0.01.1.lemma    on Englalande  is sum holt
 001.0.01.1.normexp  1  1           1  1   1
-001.0.01.1.lemmaexp 1  2           3  4   5
+001.0.01.1.lemmaexp 1  1           1  1   1
 
 001.0.01.2.text     On holte is sum bera.
-001.0.01.2.norm     On holte is sum bera
-001.0.01.2.flags    .  .     .  .   .
-001.0.01.2.lemma    -  -     -  -   -
+001.0.01.2.norm     on holte is sum bera
+001.0.01.2.flags    c  .     .  .   .
+001.0.01.2.lemma    on holt  is sum bera
 001.0.01.2.normexp  2  1     2  2   1
-001.0.01.2.lemmaexp 6  7     8  9   10
+001.0.01.2.lemmaexp 2  2     2  2   1
 
 001.0.02.1.text     Hwæt is on þām holte? Sum bera is on holte.
-001.0.02.1.norm     Hwæt is on þām holte? Sum bera is on holte
-001.0.02.1.flags    .    .  .  .   .      .   .    .  .  .
-001.0.02.1.lemma    -    -  -  -   -      -   -    -  -  -
-001.0.02.1.normexp  1    3  1  1   1      1   2    4  2  2
-001.0.02.1.lemmaexp 11   12 13 14  15     16  17   18 19 20
+001.0.02.1.norm     hwæt is on þām holte  sum bera is on holte
+001.0.02.1.flags    c    .  .  .   .      c   .    .  .  .
+001.0.02.1.lemma    hwæt is on se  holt   sum bera is on holt
+001.0.02.1.normexp  1    3  3  1   2      3   2    4  4  3
+001.0.02.1.lemmaexp 1    3  3  1   3      3   2    4  4  4
 
 001.0.03.1.text     Sē bera hātte Osweald.
-001.0.03.1.norm     Sē bera hātte Osweald
-001.0.03.1.flags    .  .    .     .
-001.0.03.1.lemma    σύ -    -     -
+001.0.03.1.norm     sē bera hātte Osweald
+001.0.03.1.flags    c  .    .     .
+001.0.03.1.lemma    se bera hatan Osweald
 001.0.03.1.normexp  1  3    1     1
-001.0.03.1.lemmaexp 1  21   22    23
+001.0.03.1.lemmaexp 2  3    1     1
 
 001.0.03.2.text     Osweald is his nama.
 001.0.03.2.norm     Osweald is his nama
 001.0.03.2.flags    .       .  .   .
-001.0.03.2.lemma    -       -  -   -
+001.0.03.2.lemma    Osweald is he  nama
 001.0.03.2.normexp  2       5  1   1
-001.0.03.2.lemmaexp 24      25 26  27
+001.0.03.2.lemmaexp 2       5  1   1
 
-001.0.04.1.text     Osweald Bera wunaþ on holte.
-001.0.04.1.norm     Osweald Bera wunaþ on holte
-001.0.04.1.flags    .       .    .     .  .
-001.0.04.1.lemma    -       -    -     -  -
-001.0.04.1.normexp  3       1    1     3  3
-001.0.04.1.lemmaexp 28      29   30    31 32
+001.0.04.1.text     Osweald Bera wunaþ  on holte.
+001.0.04.1.norm     Osweald bera wunaþ  on holte
+001.0.04.1.flags    .       c    .      .  .
+001.0.04.1.lemma    Osweald bera wunian on holt
+001.0.04.1.normexp  3       4    1      5  4
+001.0.04.1.lemmaexp 3       4    1      5  5
 
-001.0.05.1.text     Wunaþ Osweald on hūse? Nese, ne wunaþ hē on hūse, ac on holte.
-001.0.05.1.norm     Wunaþ Osweald on hūse? Nese  ne wunaþ hē on hūse  ac on holte
-001.0.05.1.flags    .     .       .  .     .     .  .     .  .  .     .  .  .
-001.0.05.1.lemma    -     -       -  -     -     -  -     -  -  -     -  -  -
-001.0.05.1.normexp  1     4       4  1     1     1  2     1  5  1     1  6  4
-001.0.05.1.lemmaexp 33    34      35 36    37    38 39    40 41 42    43 44 45
+001.0.05.1.text     Wunaþ  Osweald on hūse? Nese, ne wunaþ  hē on hūse, ac on holte.
+001.0.05.1.norm     wunaþ  Osweald on hūse  nese  ne wunaþ  hē on hūse  ac on holte
+001.0.05.1.flags    c      .       .  .     c     .  .      .  .  .     .  .  .
+001.0.05.1.lemma    wunian Osweald on hus   nesan ne wunian he on hus   ac on holt
+001.0.05.1.normexp  2      4       6  1     1     1  3      1  7  2     1  8  5
+001.0.05.1.lemmaexp 2      4       6  1     1     1  3      2  7  2     1  8  6
 
-001.0.06.1.text     Hwǣr wunaþ Osweald Bera? Hē wunaþ on holte.
-001.0.06.1.norm     Hwǣr wunaþ Osweald Bera? Hē wunaþ on holte
-001.0.06.1.flags    .    .     .       .     .  .     .  .
-001.0.06.1.lemma    -    -     -       -     -  -     -  -
-001.0.06.1.normexp  1    3     5       1     1  4     7  5
-001.0.06.1.lemmaexp 46   47    48      49    50 51    52 53
+001.0.06.1.text     Hwǣr wunaþ  Osweald Bera? Hē wunaþ  on holte.
+001.0.06.1.norm     hwǣr wunaþ  Osweald bera  hē wunaþ  on holte
+001.0.06.1.flags    c    .      .       c     c  .      .  .
+001.0.06.1.lemma    hwær wunian Osweald bera  he wunian on holt
+001.0.06.1.normexp  1    4      5       5     2  5      9  6
+001.0.06.1.lemmaexp 1    4      5       5     3  5      9  7
 
-001.0.07.1.text     Hwā wunaþ on holte? Witodlīċe wunaþ Osweald Bera þǣr!
-001.0.07.1.norm     Hwā wunaþ on holte? Witodlīċe wunaþ Osweald Bera þǣr
-001.0.07.1.flags    .   .     .  .      .         .     .       .    .
-001.0.07.1.lemma    -   -     -  -      -         -     -       -    -
-001.0.07.1.normexp  1   5     8  2      1         6     6       2    1
-001.0.07.1.lemmaexp 54  55    56 57     58        59    60      61   62
+001.0.07.1.text     Hwā wunaþ  on holte? Witodlīċe wunaþ  Osweald Bera þǣr!
+001.0.07.1.norm     hwā wunaþ  on holte  witodlīċe wunaþ  Osweald bera þǣr
+001.0.07.1.flags    c   .      .  .      c         .      .       c    .
+001.0.07.1.lemma    hwa wunian on holt   witodlice wunian Osweald bera þær
+001.0.07.1.normexp  1   6      10 7      1         7      6       6    1
+001.0.07.1.lemmaexp 1   6      10 8      1         7      6       6    1
 
 001.0.08.1.text     Hwæt is Osweald? Osweald is bera.
-001.0.08.1.norm     Hwæt is Osweald? Osweald is bera
-001.0.08.1.flags    .    .  .        .       .  .
-001.0.08.1.lemma    -    -  -        -       -  -
-001.0.08.1.normexp  2    6  1        7       7  4
-001.0.08.1.lemmaexp 63   64 65       66      67 68
+001.0.08.1.norm     hwæt is Osweald  Osweald is bera
+001.0.08.1.flags    c    .  .        .       .  .
+001.0.08.1.lemma    hwæt is Osweald  Osweald is bera
+001.0.08.1.normexp  2    6  7        8       7  7
+001.0.08.1.lemmaexp 2    6  7        8       7  7
 
-001.0.09.1.text     Is Osweald wer? Nese, nis Osweald wer.
-001.0.09.1.norm     Is Osweald wer? Nese  nis Osweald wer
-001.0.09.1.flags    .  .       .    .     .   .       .
-001.0.09.1.lemma    -  -       -    -     -   -       -
-001.0.09.1.normexp  1  8       1    2     1   9       1
-001.0.09.1.lemmaexp 69 70      71   72    73  74      75
+001.0.09.1.text     Is Osweald wer? Nese, nis   Osweald wer.
+001.0.09.1.norm     is Osweald wer  nese  nis   Osweald wer
+001.0.09.1.flags    c  .       .    c     .     .       .
+001.0.09.1.lemma    is Osweald wer  nesan nesan Osweald wer
+001.0.09.1.normexp  8  9       1    2     1     10      2
+001.0.09.1.lemmaexp 8  9       1    2     3     10      2
 
 001.0.09.2.text     Witodlīċe is Osweald bera!
-001.0.09.2.norm     Witodlīċe is Osweald bera
-001.0.09.2.flags    .         .  .       .
-001.0.09.2.lemma    -         -  -       -
-001.0.09.2.normexp  2         8  10      5
-001.0.09.2.lemmaexp 76        77 78      79
+001.0.09.2.norm     witodlīċe is Osweald bera
+001.0.09.2.flags    c         .  .       .
+001.0.09.2.lemma    witodlice is Osweald bera
+001.0.09.2.normexp  2         9  11      8
+001.0.09.2.lemmaexp 2         9  11      8
 
 001.0.10.1.text     On Engla-lande is ēac sum tūn.
-001.0.10.1.norm     On Engla-lande is ēac sum tūn
-001.0.10.1.flags    .  .           .  .   .   .
-001.0.10.1.lemma    -  -           -  -   -   -
-001.0.10.1.normexp  3  2           9  1   3   1
-001.0.10.1.lemmaexp 80 81          82 83  84  85
+001.0.10.1.norm     on Engla-lande is ēac sum tūn
+001.0.10.1.flags    c  .           .  .   .   .
+001.0.10.1.lemma    on Englalande  is eac sum tun
+001.0.10.1.normexp  11 2           10 1   4   1
+001.0.10.1.lemmaexp 11 2           10 1   4   1
 
 001.0.10.2.text     Sē tūn hātte Wintanċeaster.
-001.0.10.2.norm     Sē tūn hātte Wintanċeaster
-001.0.10.2.flags    .  .   .     .
-001.0.10.2.lemma    σύ -   -     -
+001.0.10.2.norm     sē tūn hātte wintanċeaster
+001.0.10.2.flags    c  .   .     c
+001.0.10.2.lemma    se tun hatan wintanceaster
 001.0.10.2.normexp  2  2   2     1
-001.0.10.2.lemmaexp 2  86  87    88
+001.0.10.2.lemmaexp 3  2   2     1
 
-001.0.11.1.text     Ne wunaþ Osweald Bera on Wintanċeastre tūne.
-001.0.11.1.norm     Ne wunaþ Osweald Bera on Wintanċeastre tūne
-001.0.11.1.flags    .  .     .       .    .  .             .
-001.0.11.1.lemma    -  -     -       -    -  -             -
-001.0.11.1.normexp  1  7     11      3    9  1             1
-001.0.11.1.lemmaexp 89 90    91      92   93 94            95
+001.0.11.1.text     Ne wunaþ  Osweald Bera on Wintanċeastre tūne.
+001.0.11.1.norm     ne wunaþ  Osweald bera on wintanċeastre tūne
+001.0.11.1.flags    c  .      .       c    .  c             .
+001.0.11.1.lemma    ne wunian Osweald bera on wintanceaster tune
+001.0.11.1.normexp  2  8      12      9    12 1             1
+001.0.11.1.lemmaexp 2  8      12      9    12 2             1
 
-001.0.11.2.text     Hē wunaþ on holte.
-001.0.11.2.norm     Hē wunaþ on holte
-001.0.11.2.flags    .  .     .  .
-001.0.11.2.lemma    -  -     -  -
-001.0.11.2.normexp  2  8     10 6
-001.0.11.2.lemmaexp 96 97    98 99
+001.0.11.2.text     Hē wunaþ  on holte.
+001.0.11.2.norm     hē wunaþ  on holte
+001.0.11.2.flags    c  .      .  .
+001.0.11.2.lemma    he wunian on holt
+001.0.11.2.normexp  3  9      13 8
+001.0.11.2.lemmaexp 4  9      13 9
 
-001.0.12.1.text     Hwā wunaþ on  Wintanċeastre? Sē cyning!
-001.0.12.1.norm     Hwā wunaþ on  Wintanċeastre? Sē cyning
-001.0.12.1.flags    .   .     .   .              .  .
-001.0.12.1.lemma    -   -     -   -              σύ -
-001.0.12.1.normexp  2   9     11  1              3  1
-001.0.12.1.lemmaexp 100 101   102 103            3  104
+001.0.12.1.text     Hwā wunaþ  on Wintanċeastre? Sē cyning!
+001.0.12.1.norm     hwā wunaþ  on wintanċeastre  sē cyning
+001.0.12.1.flags    c   .      .  c              c  .
+001.0.12.1.lemma    hwa wunian on wintanceaster  se cyning
+001.0.12.1.normexp  2   10     14 2              3  1
+001.0.12.1.lemmaexp 2   10     14 3              4  1
 
-001.0.12.2.text     Sē cyning wunaþ on  Wintanċeastre.
-001.0.12.2.norm     Sē cyning wunaþ on  Wintanċeastre
-001.0.12.2.flags    .  .      .     .   .
-001.0.12.2.lemma    σύ -      -     -   -
-001.0.12.2.normexp  4  2      10    12  2
-001.0.12.2.lemmaexp 4  105    106   107 108
+001.0.12.2.text     Sē cyning wunaþ  on Wintanċeastre.
+001.0.12.2.norm     sē cyning wunaþ  on wintanċeastre
+001.0.12.2.flags    c  .      .      .  c
+001.0.12.2.lemma    se cyning wunian on wintanceaster
+001.0.12.2.normexp  4  2      11     15 3
+001.0.12.2.lemmaexp 5  2      11     15 4
 
-001.0.13.1.text     Is  sē cyning bera? Nese, nis sē cyning bera.
-001.0.13.1.norm     Is  sē cyning bera? Nese  nis sē cyning bera
-001.0.13.1.flags    .   .  .      .     .     .   .  .      .
-001.0.13.1.lemma    -   σύ -      -     -     -   σύ -      -
-001.0.13.1.normexp  2   1  3      1     3     2   2  4      6
-001.0.13.1.lemmaexp 109 5  110    111   112   113 6  114    115
+001.0.13.1.text     Is sē cyning bera? Nese, nis   sē cyning bera.
+001.0.13.1.norm     is sē cyning bera  nese  nis   sē cyning bera
+001.0.13.1.flags    c  .  .      .     c     .     .  .      .
+001.0.13.1.lemma    is se cyning bera  nesan nesan se cyning bera
+001.0.13.1.normexp  11 5  3      10    3     2     6  4      11
+001.0.13.1.lemmaexp 11 6  3      10    4     5     7  4      11
 
-001.0.13.2.text     Hwæt is  sē cyning? Sē cyning is  wer.
-001.0.13.2.norm     Hwæt is  sē cyning? Sē cyning is  wer
-001.0.13.2.flags    .    .   .  .       .  .      .   .
-001.0.13.2.lemma    -    -   σύ -       σύ -      -   -
-001.0.13.2.normexp  3    10  3  1       5  5      11  2
-001.0.13.2.lemmaexp 116  117 7  118     8  119    120 121
+001.0.13.2.text     Hwæt is sē cyning? Sē cyning is wer.
+001.0.13.2.norm     hwæt is sē cyning  sē cyning is wer
+001.0.13.2.flags    c    .  .  .       c  .      .  .
+001.0.13.2.lemma    hwæt is se cyning  se cyning is wer
+001.0.13.2.normexp  3    12 7  5       8  6      13 3
+001.0.13.2.lemmaexp 3    12 8  5       9  6      13 3
 
 001.0.14.1.text     Hwæt hātte sē cyning? Sē cyning hātte Æþelrǣd.
-001.0.14.1.norm     Hwæt hātte sē cyning? Sē cyning hātte Æþelrǣd
-001.0.14.1.flags    .    .     .  .       .  .      .     .
-001.0.14.1.lemma    -    -     σύ -       σύ -      -     -
-001.0.14.1.normexp  4    3     4  2       6  6      4     1
-001.0.14.1.lemmaexp 122  123   9  124     10 125    126   127
+001.0.14.1.norm     hwæt hātte sē cyning  sē cyning hātte Æþelrǣd
+001.0.14.1.flags    c    .     .  .       c  .      .     .
+001.0.14.1.lemma    hwæt hatan se cyning  se cyning hatan Æþelræd
+001.0.14.1.normexp  4    3     9  7       10 8      4     1
+001.0.14.1.lemmaexp 4    3     10 7       11 8      4     1
 
-001.0.14.2.text     Æþelrǣd is  his nama.
-001.0.14.2.norm     Æþelrǣd is  his nama
-001.0.14.2.flags    .       .   .   .
-001.0.14.2.lemma    -       -   -   -
-001.0.14.2.normexp  2       12  2   2
-001.0.14.2.lemmaexp 128     129 130 131
+001.0.14.2.text     Æþelrǣd is his nama.
+001.0.14.2.norm     Æþelrǣd is his nama
+001.0.14.2.flags    .       .  .   .
+001.0.14.2.lemma    Æþelræd is he  nama
+001.0.14.2.normexp  2       14 2   2
+001.0.14.2.lemmaexp 2       14 5   2
 
-001.0.15.1.text     Is  sē cyning wīf? Nese, nis sē cyning wīf.
-001.0.15.1.norm     Is  sē cyning wīf? Nese  nis sē cyning wīf
-001.0.15.1.flags    .   .  .      .    .     .   .  .      .
-001.0.15.1.lemma    -   σύ -      -    -     -   σύ -      -
-001.0.15.1.normexp  3   5  7      1    4     3   6  8      1
-001.0.15.1.lemmaexp 132 11 133    134  135   136 12 137    138
+001.0.15.1.text     Is sē cyning wīf? Nese, nis   sē cyning wīf.
+001.0.15.1.norm     is sē cyning wīf  nese  nis   sē cyning wīf
+001.0.15.1.flags    c  .  .      .    c     .     .  .      .
+001.0.15.1.lemma    is se cyning wif  nesan nesan se cyning wif
+001.0.15.1.normexp  15 11 9      1    4     3     12 10     2
+001.0.15.1.lemmaexp 15 12 9      1    6     7     13 10     2
 
-001.0.15.2.text     Hē  is  wer!
-001.0.15.2.norm     Hē  is  wer
-001.0.15.2.flags    .   .   .
-001.0.15.2.lemma    -   -   -
-001.0.15.2.normexp  3   13  3
-001.0.15.2.lemmaexp 139 140 141
+001.0.15.2.text     Hē is wer!
+001.0.15.2.norm     hē is wer
+001.0.15.2.flags    c  .  .
+001.0.15.2.lemma    he is wer
+001.0.15.2.normexp  4  16 4
+001.0.15.2.lemmaexp 6  16 4
 
-001.0.16.1.text     Ac  sum wīf wunaþ on  Wintanċeastre.
-001.0.16.1.norm     Ac  sum wīf wunaþ on  Wintanċeastre
-001.0.16.1.flags    .   .   .   .     .   .
-001.0.16.1.lemma    -   -   -   -     -   -
-001.0.16.1.normexp  1   4   2   11    13  3
-001.0.16.1.lemmaexp 142 143 144 145   146 147
+001.0.16.1.text     Ac sum wīf wunaþ  on Wintanċeastre.
+001.0.16.1.norm     ac sum wīf wunaþ  on wintanċeastre
+001.0.16.1.flags    c  .   .   .      .  c
+001.0.16.1.lemma    ac sum wif wunian on wintanceaster
+001.0.16.1.normexp  2  5   3   12     16 4
+001.0.16.1.lemmaexp 2  5   3   12     16 5
 
 001.0.16.2.text     Hwā? Sēo cwēn!
-001.0.16.2.norm     Hwā? Sēo cwēn
-001.0.16.2.flags    .    .   .
-001.0.16.2.lemma    -    σύ  -
-001.0.16.2.normexp  1    1   1
-001.0.16.2.lemmaexp 148  13  149
+001.0.16.2.norm     hwā  sēo cwēn
+001.0.16.2.flags    c    c   .
+001.0.16.2.lemma    hwa  se  cwen
+001.0.16.2.normexp  3    1   1
+001.0.16.2.lemmaexp 3    14  1
 
-001.0.16.3.text     Sēo cwēn is  wīf.
-001.0.16.3.norm     Sēo cwēn is  wīf
-001.0.16.3.flags    .   .    .   .
-001.0.16.3.lemma    σύ  -    -   -
-001.0.16.3.normexp  2   2    14  3
-001.0.16.3.lemmaexp 14  150  151 152
+001.0.16.3.text     Sēo cwēn is wīf.
+001.0.16.3.norm     sēo cwēn is wīf
+001.0.16.3.flags    c   .    .  .
+001.0.16.3.lemma    se  cwen is wif
+001.0.16.3.normexp  2   2    17 4
+001.0.16.3.lemmaexp 15  2    17 4
 
-001.0.16.4.text     Nis hēo wer, ac  wīf.
-001.0.16.4.norm     Nis hēo wer  ac  wīf
-001.0.16.4.flags    .   .   .    .   .
-001.0.16.4.lemma    -   -   -    -   -
-001.0.16.4.normexp  1   1   4    2   4
-001.0.16.4.lemmaexp 153 154 155  156 157
+001.0.16.4.text     Nis   hēo wer, ac wīf.
+001.0.16.4.norm     nis   hēo wer  ac wīf
+001.0.16.4.flags    c     .   .    .  .
+001.0.16.4.lemma    nesan heo wer  ac wif
+001.0.16.4.normexp  4     1   5    3  5
+001.0.16.4.lemmaexp 8     1   5    3  5
 
-001.0.16.5.text     And hēo wunaþ on  Wintanċeastre.
-001.0.16.5.norm     And hēo wunaþ on  Wintanċeastre
-001.0.16.5.flags    .   .   .     .   .
-001.0.16.5.lemma    -   -   -     -   -
-001.0.16.5.normexp  1   2   12    14  4
-001.0.16.5.lemmaexp 158 159 160   161 162
+001.0.16.5.text     And hēo wunaþ  on Wintanċeastre.
+001.0.16.5.norm     and hēo wunaþ  on wintanċeastre
+001.0.16.5.flags    c   .   .      .  c
+001.0.16.5.lemma    and heo wunian on wintanceaster
+001.0.16.5.normexp  1   2   13     17 5
+001.0.16.5.lemmaexp 1   2   13     17 6
 
 001.0.17.1.text     Hwæt hātte sēo cwēn? Sēo cwēn hātte Ælfġiefu.
-001.0.17.1.norm     Hwæt hātte sēo cwēn? Sēo cwēn hātte Ælfġiefu
-001.0.17.1.flags    .    .     .   .     .   .    .     .
-001.0.17.1.lemma    -    -     σύ  -     σύ  -    -     -
-001.0.17.1.normexp  5    5     1   1     3   3    6     1
-001.0.17.1.lemmaexp 163  164   15  165   16  166  167   168
+001.0.17.1.norm     hwæt hātte sēo cwēn  sēo cwēn hātte ælfġiefu
+001.0.17.1.flags    c    .     .   .     c   .    .     c
+001.0.17.1.lemma    hwæt hatan se  cwen  se  cwen hatan ælfgiefu
+001.0.17.1.normexp  5    5     3   3     4   4    6     1
+001.0.17.1.lemmaexp 5    5     16  3     17  4    6     1
 
-001.0.17.2.text     Ælfġiefu is  hire nama.
-001.0.17.2.norm     Ælfġiefu is  hire nama
-001.0.17.2.flags    .        .   .    .
-001.0.17.2.lemma    -        -   -    -
-001.0.17.2.normexp  2        15  1    3
-001.0.17.2.lemmaexp 169      170 171  172
+001.0.17.2.text     Ælfġiefu is hire nama.
+001.0.17.2.norm     ælfġiefu is hire nama
+001.0.17.2.flags    c        .  .    .
+001.0.17.2.lemma    ælfgiefu is heo  nama
+001.0.17.2.normexp  2        18 1    3
+001.0.17.2.lemmaexp 2        18 3    3
 
-001.0.18.1.text     Sē cyning and sēo cwēn wuniaþ on  Wintanċeastre, ac  Osweald Bera wunaþ on  holte.
-001.0.18.1.norm     Sē cyning and sēo cwēn wuniaþ on  Wintanċeastre  ac  Osweald Bera wunaþ on  holte
-001.0.18.1.flags    .  .      .   .   .    .      .   .              .   .       .    .     .   .
-001.0.18.1.lemma    σύ -      -   σύ  -    -      -   -              -   -       -    -     -   -
-001.0.18.1.normexp  7  9      1   2   4    1      15  5              3   12      4    13    16  7
-001.0.18.1.lemmaexp 17 173    174 18  175  176    177 178            179 180     181  182   183 184
+001.0.18.1.text     Sē cyning and sēo cwēn wuniaþ on Wintanċeastre, ac Osweald Bera wunaþ  on holte.
+001.0.18.1.norm     sē cyning and sēo cwēn wuniaþ on wintanċeastre  ac Osweald bera wunaþ  on holte
+001.0.18.1.flags    c  .      .   .   .    .      .  c              .  .       c    .      .  .
+001.0.18.1.lemma    se cyning and se  cwen wunian on wintanceaster  ac Osweald bera wunian on holt
+001.0.18.1.normexp  13 11     2   5   5    1      18 6              4  13      12   14     19 9
+001.0.18.1.lemmaexp 18 11     2   19  5    14     18 7              4  13      12   15     19 10
 
-001.0.19.1.text     Wuniaþ sē cyning and sēo cwēn on  holte? Nese, ne  wuniaþ hīe on  holte.
-001.0.19.1.norm     Wuniaþ sē cyning and sēo cwēn on  holte? Nese  ne  wuniaþ hīe on  holte
-001.0.19.1.flags    .      .  .      .   .   .    .   .      .     .   .      .   .   .
-001.0.19.1.lemma    -      σύ -      -   σύ  -    -   -      -     -   -      -   -   -
-001.0.19.1.normexp  1      7  10     2   3   5    17  3      5     2   2      1   18  8
-001.0.19.1.lemmaexp 185    19 186    187 20  188  189 190    191   192 193    194 195 196
+001.0.19.1.text     Wuniaþ sē cyning and sēo cwēn on holte? Nese, ne wuniaþ hīe on holte.
+001.0.19.1.norm     wuniaþ sē cyning and sēo cwēn on holte  nese  ne wuniaþ hīe on holte
+001.0.19.1.flags    c      .  .      .   .   .    .  .      c     .  .      .   .  .
+001.0.19.1.lemma    wunian se cyning and se  cwen on holt   nesan ne wunian hi  on holt
+001.0.19.1.normexp  2      14 12     3   6   6    20 10     5     3  3      1   21 11
+001.0.19.1.lemmaexp 16     20 12     3   21  6    20 11     9     3  17     1   21 12
 
-001.0.19.2.text     Hīe wuniaþ on  tūne.
-001.0.19.2.norm     Hīe wuniaþ on  tūne
-001.0.19.2.flags    .   .      .   .
-001.0.19.2.lemma    -   -      -   -
-001.0.19.2.normexp  1   3      19  2
-001.0.19.2.lemmaexp 197 198    199 200
+001.0.19.2.text     Hīe wuniaþ on tūne.
+001.0.19.2.norm     hīe wuniaþ on tūne
+001.0.19.2.flags    c   .      .  .
+001.0.19.2.lemma    hi  wunian on tune
+001.0.19.2.normexp  2   4      22 2
+001.0.19.2.lemmaexp 2   18     22 2
 
-001.0.20.1.text     Wunaþ Osweald Bera on  tūne? Nese, ne  wunaþ hē  on  tūne.
-001.0.20.1.norm     Wunaþ Osweald Bera on  tūne? Nese  ne  wunaþ hē  on  tūne
-001.0.20.1.flags    .     .       .    .   .     .     .   .     .   .   .
-001.0.20.1.lemma    -     -       -    -   -     -     -   -     -   -   -
-001.0.20.1.normexp  2     13      5    20  1     6     3   14    2   21  3
-001.0.20.1.lemmaexp 201   202     203  204 205   206   207 208   209 210 211
+001.0.20.1.text     Wunaþ  Osweald Bera on tūne? Nese, ne wunaþ  hē on tūne.
+001.0.20.1.norm     wunaþ  Osweald bera on tūne  nese  ne wunaþ  hē on tūne
+001.0.20.1.flags    c      .       c    .  .     c     .  .      .  .  .
+001.0.20.1.lemma    wunian Osweald bera on tune  nesan ne wunian he on tune
+001.0.20.1.normexp  15     14      13   23 3     6     4  16     5  24 4
+001.0.20.1.lemmaexp 19     14      13   23 3     10    4  20     7  24 4
 
-001.0.20.2.text     Hē  wunaþ on  holte.
-001.0.20.2.norm     Hē  wunaþ on  holte
-001.0.20.2.flags    .   .     .   .
-001.0.20.2.lemma    -   -     -   -
-001.0.20.2.normexp  4   15    22  9
-001.0.20.2.lemmaexp 212 213   214 215
+001.0.20.2.text     Hē wunaþ  on holte.
+001.0.20.2.norm     hē wunaþ  on holte
+001.0.20.2.flags    c  .      .  .
+001.0.20.2.lemma    he wunian on holt
+001.0.20.2.normexp  6  17     25 12
+001.0.20.2.lemmaexp 8  21     25 13
 
-001.0.21.1.text     Hwȳ wunaþ Osweald on  holte? Osweald wunaþ on  holte for þām þe  hē  is  bera.
-001.0.21.1.norm     Hwȳ wunaþ Osweald on  holte? Osweald wunaþ on  holte for þām þe  hē  is  bera
-001.0.21.1.flags    .   .     .       .   .      .       .     .   .     .   .   .   .   .   .
-001.0.21.1.lemma    -   -     -       -   -      -       -     -   -     -   -   -   -   -   -
-001.0.21.1.normexp  1   16    14      23  4      15      17    24  10    1   2   1   3   16  7
-001.0.21.1.lemmaexp 216 217   218     219 220    221     222   223 224   225 226 227 228 229 230
+001.0.21.1.text     Hwȳ wunaþ  Osweald on holte? Osweald wunaþ  on holte for þām þe hē is bera.
+001.0.21.1.norm     hwȳ wunaþ  Osweald on holte  Osweald wunaþ  on holte for þām þe hē is bera
+001.0.21.1.flags    c   .      .       .  .      .       .      .  .     .   .   .  .  .  .
+001.0.21.1.lemma    hwy wunian Osweald on holt   Osweald wunian on holt  for se  se he is bera
+001.0.21.1.normexp  1   18     15      26 13     16      19     27 14    1   2   1  7  19 14
+001.0.21.1.lemmaexp 1   22     15      26 14     16      23     27 15    1   22  23 9  19 14
 
-001.0.21.2.text     And beran wuniaþ on  holte, nā  on  tūne.
-001.0.21.2.norm     And beran wuniaþ on  holte  nā  on  tūne
-001.0.21.2.flags    .   .     .      .   .      .   .   .
-001.0.21.2.lemma    -   -     -      -   -      -   -   -
-001.0.21.2.normexp  2   1     4      25  11     1   26  4
-001.0.21.2.lemmaexp 231 232   233    234 235    236 237 238
+001.0.21.2.text     And beran wuniaþ on holte, nā on tūne.
+001.0.21.2.norm     and beran wuniaþ on holte  nā on tūne
+001.0.21.2.flags    c   .     .      .  .      .  .  .
+001.0.21.2.lemma    and beran wunian on holt   na on tune
+001.0.21.2.normexp  4   1     5      28 15     1  29 5
+001.0.21.2.lemmaexp 4   1     24     28 16     1  29 5
 
-001.0.22.1.text     Wuniaþ maniġe beran on  holte? Nese, ne  wuniaþ maniġe beran on  holte.
-001.0.22.1.norm     Wuniaþ maniġe beran on  holte? Nese  ne  wuniaþ maniġe beran on  holte
-001.0.22.1.flags    .      .      .     .   .      .     .   .      .      .     .   .
-001.0.22.1.lemma    -      -      -     -   -      -     -   -      -      -     -   -
-001.0.22.1.normexp  2      1      2     27  5      7     4   5      2      3     28  12
-001.0.22.1.lemmaexp 239    240    241   242 243    244   245 246    247    248   249 250
+001.0.22.1.text     Wuniaþ maniġe beran on holte? Nese, ne wuniaþ maniġe beran on holte.
+001.0.22.1.norm     wuniaþ maniġe beran on holte  nese  ne wuniaþ maniġe beran on holte
+001.0.22.1.flags    c      .      .     .  .      c     .  .      .      .     .  .
+001.0.22.1.lemma    wunian manig  beran on holt   nesan ne wunian manig  beran on holt
+001.0.22.1.normexp  6      1      2     30 16     7     5  7      2      3     31 17
+001.0.22.1.lemmaexp 25     1      2     30 17     11    5  26     2      3     31 18
 
-001.0.22.2.text     Ne  wuniaþ maniġe beran on  Engla-lande!
-001.0.22.2.norm     Ne  wuniaþ maniġe beran on  Engla-lande
-001.0.22.2.flags    .   .      .      .     .   .
-001.0.22.2.lemma    -   -      -      -     -   -
-001.0.22.2.normexp  2   6      3      4     29  3
-001.0.22.2.lemmaexp 251 252    253    254   255 256
+001.0.22.2.text     Ne wuniaþ maniġe beran on Engla-lande!
+001.0.22.2.norm     ne wuniaþ maniġe beran on Engla-lande
+001.0.22.2.flags    c  .      .      .     .  .
+001.0.22.2.lemma    ne wunian manig  beran on Englalande
+001.0.22.2.normexp  6  8      3      4     32 3
+001.0.22.2.lemmaexp 6  27     3      4     32 3
 
-001.0.23.1.text     Wuniaþ maniġe weras on  tūne? Ġiese, maniġe weras wuniaþ on  tūne, and ēac maniġe wīf.
-001.0.23.1.norm     Wuniaþ maniġe weras on  tūne? Ġiese  maniġe weras wuniaþ on  tūne  and ēac maniġe wīf
-001.0.23.1.flags    .      .      .     .   .     .      .      .     .      .   .     .   .   .      .
-001.0.23.1.lemma    -      -      -     -   -     -      -      -     -      -   -     -   -   -      -
-001.0.23.1.normexp  3      4      1     30  2     1      5      2     7      31  5     3   2   6      5
-001.0.23.1.lemmaexp 257    258    259   260 261   262    263    264   265    266 267   268 269 270    271
+001.0.23.1.text     Wuniaþ maniġe weras on tūne? Ġiese, maniġe weras wuniaþ on tūne, and ēac maniġe wīf.
+001.0.23.1.norm     wuniaþ maniġe weras on tūne  ġiese  maniġe weras wuniaþ on tūne  and ēac maniġe wīf
+001.0.23.1.flags    c      .      .     .  .     c      .      .     .      .  .     .   .   .      .
+001.0.23.1.lemma    wunian manig  wer   on tune  giese  manig  wer   wunian on tune  and eac manig  wif
+001.0.23.1.normexp  9      4      1     33 6     1      5      2     10     34 7     5   2   6      6
+001.0.23.1.lemmaexp 28     4      6     33 6     1      5      7     29     34 7     5   2   6      6
 
-001.0.23.2.text     Fēawe weras wuniaþ on  holte, and ēac fēaw wīf.
-001.0.23.2.norm     Fēawe weras wuniaþ on  holte  and ēac fēaw wīf
-001.0.23.2.flags    .     .     .      .   .      .   .   .    .
-001.0.23.2.lemma    -     -     -      -   -      -   -   -    -
-001.0.23.2.normexp  1     3     8      32  13     4   3   1    6
-001.0.23.2.lemmaexp 272   273   274    275 276    277 278 279  280
+001.0.23.2.text     Fēawe weras wuniaþ on holte, and ēac fēaw wīf.
+001.0.23.2.norm     fēawe weras wuniaþ on holte  and ēac fēaw wīf
+001.0.23.2.flags    c     .     .      .  .      .   .   .    .
+001.0.23.2.lemma    feawe wer   wunian on holt   and eac feaw wif
+001.0.23.2.normexp  1     3     11     35 18     6   3   1    7
+001.0.23.2.lemmaexp 1     8     30     35 19     6   3   1    7
 
-001.0.24.1.text     Elles hwæt is  þǣr on  tūne? In  tūne sindon maniġe hūs.
-001.0.24.1.norm     Elles hwæt is  þǣr on  tūne? In  tūne sindon maniġe hūs
-001.0.24.1.flags    .     .    .   .   .   .     .   .    .      .      .
-001.0.24.1.lemma    -     -    -   -   -   -     -   -    -      -      -
-001.0.24.1.normexp  1     1    17  2   33  3     1   6    1      7      1
-001.0.24.1.lemmaexp 281   282  283 284 285 286   287 288  289    290    291
+001.0.24.1.text     Elles hwæt is þǣr on tūne? In tūne sindon maniġe hūs.
+001.0.24.1.norm     elles hwæt is þǣr on tūne  in tūne sindon maniġe hūs
+001.0.24.1.flags    c     .    .  .   .  .     c  .    .      .      .
+001.0.24.1.lemma    elles hwæt is þær on tune  in tune wesan  manig  hus
+001.0.24.1.normexp  1     6    20 2   36 8     1  9    1      7      1
+001.0.24.1.lemmaexp 1     6    20 2   36 8     1  9    1      7      3
 
-001.0.24.2.text     Hwȳ sindon þǣr maniġe hūs on  tūne? Þǣr sindon maniġe hūs on  tūne, for þām þe  þǣr maniġe weras and wīf wuniaþ.
-001.0.24.2.norm     Hwȳ sindon þǣr maniġe hūs on  tūne? Þǣr sindon maniġe hūs on  tūne  for þām þe  þǣr maniġe weras and wīf wuniaþ
-001.0.24.2.flags    .   .      .   .      .   .   .     .   .      .      .   .   .     .   .   .   .   .      .     .   .   .
-001.0.24.2.lemma    -   -      -   -      -   -   -     -   -      -      -   -   -     -   -   -   -   -      -     -   -   -
-001.0.24.2.normexp  2   2      3   8      2   34  4     1   3      9      3   35  7     2   3   2   4   10     4     5   7   9
-001.0.24.2.lemmaexp 292 293    294 295    296 297 298   299 300    301    302 303 304   305 306 307 308 309    310   311 312 313
+001.0.24.2.text     Hwȳ sindon þǣr maniġe hūs on tūne? Þǣr sindon maniġe hūs on tūne, for þām þe þǣr maniġe weras and wīf wuniaþ.
+001.0.24.2.norm     hwȳ sindon þǣr maniġe hūs on tūne  þǣr sindon maniġe hūs on tūne  for þām þe þǣr maniġe weras and wīf wuniaþ
+001.0.24.2.flags    c   .      .   .      .   .  .     c   .      .      .   .  .     .   .   .  .   .      .     .   .   .
+001.0.24.2.lemma    hwy wesan  þær manig  hus on tune  þær wesan  manig  hus on tune  for se  se þær manig  wer   and wif wunian
+001.0.24.2.normexp  2   2      3   8      2   37 10    4   3      9      3   38 11    2   3   2  5   10     4     7   8   12
+001.0.24.2.lemmaexp 2   2      3   8      4   37 10    4   3      9      5   38 11    2   24  25 5   10     9     7   8   31
 
-001.0.25.1.text     Sē cyning and sēo cwēn ēac wuniaþ on  tūne.
-001.0.25.1.norm     Sē cyning and sēo cwēn ēac wuniaþ on  tūne
-001.0.25.1.flags    .  .      .   .   .    .   .      .   .
-001.0.25.1.lemma    σύ -      -   σύ  -    -   -      -   -
-001.0.25.1.normexp  8  11     6   4   6    4   10     36  8
-001.0.25.1.lemmaexp 21 314    315 22  316  317 318    319 320
+001.0.25.1.text     Sē cyning and sēo cwēn ēac wuniaþ on tūne.
+001.0.25.1.norm     sē cyning and sēo cwēn ēac wuniaþ on tūne
+001.0.25.1.flags    c  .      .   .   .    .   .      .  .
+001.0.25.1.lemma    se cyning and se  cwen eac wunian on tune
+001.0.25.1.normexp  15 13     8   7   7    4   13     39 12
+001.0.25.1.lemmaexp 26 13     8   27  7    4   32     39 12
 
-001.0.25.2.text     Wuniaþ hīe on  lȳtelum hūse? Nese!
-001.0.25.2.norm     Wuniaþ hīe on  lȳtelum hūse? Nese
-001.0.25.2.flags    .      .   .   .       .     .
-001.0.25.2.lemma    -      -   -   -       -     -
-001.0.25.2.normexp  4      2   37  1       2     8
-001.0.25.2.lemmaexp 321    322 323 324     325   326
+001.0.25.2.text     Wuniaþ hīe on lȳtelum hūse? Nese!
+001.0.25.2.norm     wuniaþ hīe on lȳtelum hūse  nese
+001.0.25.2.flags    c      .   .  .       .     c
+001.0.25.2.lemma    wunian hi  on lytelum hus   nesan
+001.0.25.2.normexp  14     3   40 1       3     8
+001.0.25.2.lemmaexp 33     3   40 1       6     12
 
-001.0.25.3.text     Ne  wunaþ sē cyning and sēo cwēn on  lȳtelum hūse.
-001.0.25.3.norm     Ne  wunaþ sē cyning and sēo cwēn on  lȳtelum hūse
-001.0.25.3.flags    .   .     .  .      .   .   .    .   .       .
-001.0.25.3.lemma    -   -     σύ -      -   σύ  -    -   -       -
-001.0.25.3.normexp  3   18    8  12     7   5   7    38  2       2
-001.0.25.3.lemmaexp 327 328   23 329    330 24  331  332 333     334
+001.0.25.3.text     Ne wunaþ  sē cyning and sēo cwēn on lȳtelum hūse.
+001.0.25.3.norm     ne wunaþ  sē cyning and sēo cwēn on lȳtelum hūse
+001.0.25.3.flags    c  .      .  .      .   .   .    .  .       .
+001.0.25.3.lemma    ne wunian se cyning and se  cwen on lytelum hus
+001.0.25.3.normexp  7  20     16 14     9   8   8    41 2       4
+001.0.25.3.lemmaexp 7  34     28 14     9   29  8    41 2       7
 
-001.0.25.4.text     Hīe wuniaþ on  miċelum sele.
-001.0.25.4.norm     Hīe wuniaþ on  miċelum sele
-001.0.25.4.flags    .   .      .   .       .
-001.0.25.4.lemma    -   -      -   -       -
-001.0.25.4.normexp  2   11     39  1       1
-001.0.25.4.lemmaexp 335 336    337 338     339
+001.0.25.4.text     Hīe wuniaþ on miċelum sele.
+001.0.25.4.norm     hīe wuniaþ on miċelum sele
+001.0.25.4.flags    c   .      .  .       .
+001.0.25.4.lemma    hi  wunian on micelum sele
+001.0.25.4.normexp  4   15     42 1       1
+001.0.25.4.lemmaexp 4   35     42 1       1
 
-001.0.25.5.text     (Sele is  miċel hūs, nā  lȳtel hūs.)
-001.0.25.5.norm     Sele  is  miċel hūs  nā  lȳtel hūs
-001.0.25.5.flags    .     .   .     .    .   .     .
-001.0.25.5.lemma    -     -   -     -    -   -     -
-001.0.25.5.normexp  1     18  1     4    2   1     5
-001.0.25.5.lemmaexp 340   341 342   343  344 345   346
+001.0.25.5.text     (Sele is miċel hūs, nā lȳtel hūs.)
+001.0.25.5.norm     sele  is miċel hūs  nā lȳtel hūs
+001.0.25.5.flags    c     .  .     .    .  .     .
+001.0.25.5.lemma    sele  is micel hus  na lytel hus
+001.0.25.5.normexp  2     21 1     4    2  1     5
+001.0.25.5.lemmaexp 2     21 1     8    2  1     9
 
-001.0.26.1.text     Osweald is  miċel bera, ac  his holt is  lȳtel.
-001.0.26.1.norm     Osweald is  miċel bera  ac  his holt is  lȳtel
-001.0.26.1.flags    .       .   .     .     .   .   .    .   .
-001.0.26.1.lemma    -       -   -     -     -   -   -    -   -
-001.0.26.1.normexp  16      19  2     8     4   3   2    20  2
-001.0.26.1.lemmaexp 347     348 349   350   351 352 353  354 355
+001.0.26.1.text     Osweald is miċel bera, ac his holt is lȳtel.
+001.0.26.1.norm     Osweald is miċel bera  ac his holt is lȳtel
+001.0.26.1.flags    .       .  .     .     .  .   .    .  .
+001.0.26.1.lemma    Osweald is micel bera  ac he  holt is lytel
+001.0.26.1.normexp  17      22 2     15    5  3   2    23 2
+001.0.26.1.lemmaexp 17      22 2     15    5  10  20   23 2
 
-001.0.26.2.text     For þām þe  hē  on  lȳtelum holte wunaþ, hē  wile his holt ġewītan.
-001.0.26.2.norm     For þām þe  hē  on  lȳtelum holte wunaþ  hē  wile his holt ġewītan
-001.0.26.2.flags    .   .   .   .   .   .       .     .      .   .    .   .    .
-001.0.26.2.lemma    -   -   -   -   -   -       -     -      -   -    -   -    -
-001.0.26.2.normexp  1   4   3   4   40  3       14    19     5   1    4   3    1
-001.0.26.2.lemmaexp 356 357 358 359 360 361     362   363    364 365  366 367  368
+001.0.26.2.text     For þām þe hē on lȳtelum holte wunaþ, hē wile   his holt ġewītan.
+001.0.26.2.norm     for þām þe hē on lȳtelum holte wunaþ  hē wile   his holt ġewītan
+001.0.26.2.flags    c   .   .  .  .  .       .     .      .  .      .   .    .
+001.0.26.2.lemma    for se  se he on lytelum holt  wunian he willan he  holt gewitan
+001.0.26.2.normexp  3   4   3  8  43 3       19    21     9  1      4   3    1
+001.0.26.2.lemmaexp 3   30  31 11 43 3       21    36     12 1      13  22   1
 
-001.0.27.1.text     Hwæt wile Osweald Bera? Hē  wile his holt ġewītan.
-001.0.27.1.norm     Hwæt wile Osweald Bera? Hē  wile his holt ġewītan
-001.0.27.1.flags    .    .    .       .     .   .    .   .    .
-001.0.27.1.lemma    -    -    -       -     -   -    -   -    -
-001.0.27.1.normexp  6    2    17      2     5   3    5   4    2
-001.0.27.1.lemmaexp 369  370  371     372   373 374  375 376  377
+001.0.27.1.text     Hwæt wile   Osweald Bera? Hē wile   his holt ġewītan.
+001.0.27.1.norm     hwæt wile   Osweald bera  hē wile   his holt ġewītan
+001.0.27.1.flags    c    .      .       c     c  .      .   .    .
+001.0.27.1.lemma    hwæt willan Osweald bera  he willan he  holt gewitan
+001.0.27.1.normexp  7    2      18      16    10 3      5   4    2
+001.0.27.1.lemmaexp 7    2      18      16    14 3      15  23   2
 
-001.0.29.1.text     Osweald wile his holt ġewītan, for þām þe  he  wile tūn ġesēon.
-001.0.29.1.norm     Osweald wile his holt ġewītan  for þām þe  he  wile tūn ġesēon
-001.0.29.1.flags    .       .    .   .    .        .   .   .   .   .    .   .
-001.0.29.1.lemma    -       -    -   -    -        -   -   -   -   -    -   -
-001.0.29.1.normexp  18      4    6   5    3        3   5   4   1   5    3   1
-001.0.29.1.lemmaexp 378     379  380 381  382      383 384 385 386 387  388 389
+001.0.29.1.text     Osweald wile   his holt ġewītan, for þām þe he wile   tūn ġesēon.
+001.0.29.1.norm     Osweald wile   his holt ġewītan  for þām þe he wile   tūn ġesēon
+001.0.29.1.flags    .       .      .   .    .        .   .   .  .  .      .   .
+001.0.29.1.lemma    Osweald willan he  holt gewitan  for se  se he willan tun geseon
+001.0.29.1.normexp  19      4      6   5    3        4   5   4  1  5      3   1
+001.0.29.1.lemmaexp 19      4      16  24   3        4   32  33 17 5      3   1
 
-001.0.29.2.text     Hē  wile weras and wīf ġesēon.
-001.0.29.2.norm     Hē  wile weras and wīf ġesēon
-001.0.29.2.flags    .   .    .     .   .   .
-001.0.29.2.lemma    -   -    -     -   -   -
-001.0.29.2.normexp  6   6    5     8   8   2
-001.0.29.2.lemmaexp 390 391  392   393 394 395
+001.0.29.2.text     Hē wile   weras and wīf ġesēon.
+001.0.29.2.norm     hē wile   weras and wīf ġesēon
+001.0.29.2.flags    c  .      .     .   .   .
+001.0.29.2.lemma    he willan wer   and wif geseon
+001.0.29.2.normexp  11 6      5     10  9   2
+001.0.29.2.lemmaexp 18 6      10    10  9   2
 
-001.0.29.3.text     Hē  wile hūs ġesēon.
-001.0.29.3.norm     Hē  wile hūs ġesēon
-001.0.29.3.flags    .   .    .   .
-001.0.29.3.lemma    -   -    -   -
-001.0.29.3.normexp  7   7    6   3
-001.0.29.3.lemmaexp 396 397  398 399
+001.0.29.3.text     Hē wile   hūs ġesēon.
+001.0.29.3.norm     hē wile   hūs ġesēon
+001.0.29.3.flags    c  .      .   .
+001.0.29.3.lemma    he willan hus geseon
+001.0.29.3.normexp  12 7      6   3
+001.0.29.3.lemmaexp 19 7      10  3
 
-001.0.29.4.text     Hē  wile Æþelrǣd Cyning and Ælfġiefe Cwēne ġesēon.
-001.0.29.4.norm     Hē  wile Æþelrǣd Cyning and Ælfġiefe Cwēne ġesēon
-001.0.29.4.flags    .   .    .       .      .   .        .     .
-001.0.29.4.lemma    -   -    -       -      -   -        -     -
-001.0.29.4.normexp  8   8    3       1      9   1        1     4
-001.0.29.4.lemmaexp 400 401  402     403    404 405      406   407
+001.0.29.4.text     Hē wile   Æþelrǣd Cyning and Ælfġiefe Cwēne ġesēon.
+001.0.29.4.norm     hē wile   Æþelrǣd cyning and ælfġiefe cwēne ġesēon
+001.0.29.4.flags    c  .      .       c      .   c        c     .
+001.0.29.4.lemma    he willan Æþelræd cyning and ælfgiefe cwen  geseon
+001.0.29.4.normexp  13 8      3       15     11  1        1     4
+001.0.29.4.lemmaexp 20 8      3       15     11  1        9     4
 
-001.0.29.5.text     Hē  wile middanġeard ġesēon!
-001.0.29.5.norm     Hē  wile middanġeard ġesēon
-001.0.29.5.flags    .   .    .           .
-001.0.29.5.lemma    -   -    -           -
-001.0.29.5.normexp  9   9    1           5
-001.0.29.5.lemmaexp 408 409  410         411
+001.0.29.5.text     Hē wile   middanġeard ġesēon!
+001.0.29.5.norm     hē wile   middanġeard ġesēon
+001.0.29.5.flags    c  .      .           .
+001.0.29.5.lemma    he willan middangeard geseon
+001.0.29.5.normexp  14 9      1           5
+001.0.29.5.lemmaexp 21 9      1           5

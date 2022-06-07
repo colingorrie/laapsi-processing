@@ -21,11 +21,11 @@
 
 002.0.04.1.text  Hwelċ mete is þǣr on holte? Is þǣr hlāf on holte? Nese, nis þǣr hlāf on holte.
 002.0.04.1.flags c     .    .  .   .  .      c  .   .    .  .      c     .   .   .    .  .
-002.0.04.1.norm  hwelċ mete is þǣr on holte? is þǣr hlāf on holte? nese  nis þǣr hlāf on holte
+002.0.04.1.norm  hwelċ mete is þǣr on holte  is þǣr hlāf on holte  nese  nis þǣr hlāf on holte
 
 002.0.04.2.text  Is þǣr ċīese on holte? Nese, nis þǣr ċīese on holte.
 002.0.04.2.flags c  .   .     .  .      c     .   .   .     .  .
-002.0.04.2.norm  is þǣr ċīese on holte? nese  nis þǣr ċīese on holte
+002.0.04.2.norm  is þǣr ċīese on holte  nese  nis þǣr ċīese on holte
 
 002.0.04.3.text  Ac þǣr is hlāf and ċīese on tūne.
 002.0.04.3.flags c  .   .  .    .   .     .  .
@@ -57,7 +57,7 @@
 
 002.0.07.1.text  Hwelċ mete is þonne þǣr on holte? Þǣr sindon fisċas in holte.
 002.0.07.1.flags c     .    .  .     .   .  .      c   .      .      .  .
-002.0.07.1.norm  hwelċ mete is þonne þǣr on holte? þǣr sindon fisċas in holte
+002.0.07.1.norm  hwelċ mete is þonne þǣr on holte  þǣr sindon fisċas in holte
 
 002.0.07.2.text  Beran etaþ fisċas.
 002.0.07.2.flags c     .    .
@@ -101,7 +101,7 @@
 
 002.0.12.3.text  Hæfþ sē holt fisċas? Nese, næfþ sē holt fisċas.
 002.0.12.3.flags c    .  .    .       c     .    .  .    .
-002.0.12.3.norm  hæfþ sē holt fisċas? nese  næfþ sē holt fisċas
+002.0.12.3.norm  hæfþ sē holt fisċas  nese  næfþ sē holt fisċas
 
 002.0.13.1.text  Þā seċeþ hē berġan.
 002.0.13.1.flags c  .     .  .
@@ -113,7 +113,7 @@
 
 002.0.13.3.text  Hæfþ sē holt berġan? Nese, næfþ sē holt berġan.
 002.0.13.3.flags c    .  .    .       c     .    .  .    .
-002.0.13.3.norm  hæfþ sē holt berġan? nese  næfþ sē holt berġan
+002.0.13.3.norm  hæfþ sē holt berġan  nese  næfþ sē holt berġan
 
 002.0.14.1.text  Þā seċeþ hē huniġ.
 002.0.14.1.flags c  .     .  .
@@ -125,7 +125,7 @@
 
 002.0.14.3.text  Hæfþ sē holt huniġ? Ġiese, sē holt hæfþ huniġ.
 002.0.14.3.flags c    .  .    .      c      .  .    .    .
-002.0.14.3.norm  hæfþ sē holt huniġ? ġiese  sē holt hæfþ huniġ
+002.0.14.3.norm  hæfþ sē holt huniġ  ġiese  sē holt hæfþ huniġ
 
 002.0.14.4.text  Þǣr is huniġ on þām holte.
 002.0.14.4.flags c   .  .     .  .   .
@@ -133,11 +133,11 @@
 
 002.0.15.1.text  Hwā wyrċaþ huniġ? Bēon.
 002.0.15.1.flags c   .      .      c
-002.0.15.1.norm  hwā wyrċaþ huniġ? bēon
+002.0.15.1.norm  hwā wyrċaþ huniġ  bēon
 
 002.0.16.1.text  Hwæt sindon bēon? Bēon sindon lȳtele ġesċeafte.
 002.0.16.1.flags c    .      .     c    .      .      .
-002.0.16.1.norm  hwæt sindon bēon? bēon sindon lȳtele ġesċeafte
+002.0.16.1.norm  hwæt sindon bēon  bēon sindon lȳtele ġesċeafte
 
 002.0.16.2.text  Hīe wyrċaþ huniġ.
 002.0.16.2.flags c   .      .
@@ -165,7 +165,7 @@
 
 002.0.19.1.text  Hū cann bera þonne etan huniġ? Bera þearf niman þæt huniġ.
 002.0.19.1.flags c  .    .    .     .    .      c    .     .     .   .
-002.0.19.1.norm  hū cann bera þonne etan huniġ? bera þearf niman þæt huniġ
+002.0.19.1.norm  hū cann bera þonne etan huniġ  bera þearf niman þæt huniġ
 
 002.0.20.1.text  For þām þearf Osweald niman huniġ þām bēom.
 002.0.20.1.flags c   .   .     .       .     .     .   .

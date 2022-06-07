@@ -5,6 +5,7 @@ import unicodedata
 
 from morpheus import Morpheus
 from constants import N_CHAPTERS, TEXT_NAME
+from cltk_integration import OldEnglishLemmatizer
 from utils import print_interlinear
 
 from greek_accentuation.characters import strip_length
@@ -15,6 +16,8 @@ try:
         lemma_overrides = yaml.safe_load(f)
 except FileNotFoundError:
     lemma_overrides = {}
+
+lemmatizer = OldEnglishLemmatizer()
 
 problems = defaultdict(list)
 with Morpheus("cache/morpheus.json") as morpheus:
@@ -56,10 +59,10 @@ with Morpheus("cache/morpheus.json") as morpheus:
                         # otherwise check morpheus
 
                         if lemma is None:
-                            lemmas, cache_hit = morpheus.lookup(
-                                strip_length(norm),
-                                lang="grc",
-                                engine="morpheusgrc")
+                            lemmas = []
+                            result = lemmatizer.lemmatize(strip_length(norm))
+                            if result:
+                                lemmas.append(result)
                             if len(lemmas) != 1:
                                 problems[(norm, "|".join(
                                     sorted(lemmas)))].append(ref)

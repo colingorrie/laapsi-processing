@@ -10,8 +10,10 @@ from utils import print_interlinear
 from greek_normalisation.normalise import Normaliser, Norm
 
 config = (Norm.CAPITALISED)
-proper_nouns = set(
-    ["Engla-land", "Osweald", "Wintanċeaster", "Æþelrǣd", "Ælfġiefu"])
+proper_nouns = set([
+    "Engla-land", "Engla-lande", "Osweald", "Wintanceaster", "Wintanceastre",
+    "Æþelrǣd", "Ælfgiefu", "Ælfgiefe"
+])
 
 
 def format_flags(flags):
@@ -39,7 +41,7 @@ for chapter_num in range(1, N_CHAPTERS + 1):
             norm = [f"{ref}.norm"]
             flags = [f"{ref}.flags"]
             for token in text:
-                norm_token, norm_flags = normalise(token.strip(",.;·«»()!"))
+                norm_token, norm_flags = normalise(token.strip(",.;·«»()!?"))
                 norm.append(norm_token)
                 flags.append(format_flags(norm_flags))
 

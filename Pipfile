@@ -15,6 +15,7 @@ requests = "*"
 greek-accentuation = "*"
 pyyaml = "*"
 pyuca = "*"
+cltk = "*"
 
 [requires]
 python_version = "3.8"

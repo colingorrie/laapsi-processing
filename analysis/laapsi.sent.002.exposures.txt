@@ -1,406 +1,406 @@
 
-002.0.01.1.text     Osweald Bera wunaþ in  lȳtelum holte, ac  hē  wile middanġeard ġesēon.
-002.0.01.1.norm     Osweald Bera wunaþ in  lȳtelum holte  ac  hē  wile middanġeard ġesēon
-002.0.01.1.flags    .       .    .     .   .       .      .   .   .    .           .
-002.0.01.1.lemma    -       -    -     -   -       -      -   -   -    -           -
-002.0.01.1.normexp  19      6    20    1   4       15     5   6   10   2           6
-002.0.01.1.lemmaexp 412     413  414   415 416     417    418 419 420  421         422
+002.0.01.1.text     Osweald Bera wunaþ  in lȳtelum holte, ac hē wile   middanġeard ġesēon.
+002.0.01.1.norm     Osweald bera wunaþ  in lȳtelum holte  ac hē wile   middanġeard ġesēon
+002.0.01.1.flags    .       c    .      .  .       .      .  .  .      .           .
+002.0.01.1.lemma    Osweald bera wunian in lytelum holt   ac he willan middangeard geseon
+002.0.01.1.normexp  20      17   22     2  4       20     6  15 10     2           6
+002.0.01.1.lemmaexp 20      17   37     2  4       25     6  22 10     2           6
 
-002.0.01.2.text     For þām wile hē  his holt ġewītan and fēran tō  Wintanċeastre tūne.
-002.0.01.2.norm     For þām wile hē  his holt ġewītan and fēran tō  Wintanċeastre tūne
-002.0.01.2.flags    .   .   .    .   .   .    .       .   .     .   .             .
-002.0.01.2.lemma    -   -   -    -   -   -    -       -   -     -   -             -
-002.0.01.2.normexp  2   6   11   7   7   6    4       10  1     1   6             9
-002.0.01.2.lemmaexp 423 424 425  426 427 428  429     430 431   432 433           434
+002.0.01.2.text     For þām wile   hē his holt ġewītan and fēran tō Wintanċeastre tūne.
+002.0.01.2.norm     for þām wile   hē his holt ġewītan and fēran tō wintanċeastre tūne
+002.0.01.2.flags    c   .   .      .  .   .    .       .   .     .  c             .
+002.0.01.2.lemma    for se  willan he he  holt gewitan and feran to wintanceaster tune
+002.0.01.2.normexp  5   6   11     16 7   6    4       12  1     1  7             13
+002.0.01.2.lemmaexp 5   34  11     23 24  26   4       12  1     1  8             13
 
-002.0.02.1.text     Osweald þearf fēran fram holte tō  tūne.
-002.0.02.1.norm     Osweald þearf fēran fram holte tō  tūne
-002.0.02.1.flags    .       .     .     .    .     .   .
-002.0.02.1.lemma    -       -     -     -    -     -   -
-002.0.02.1.normexp  20      1     2     1    16    2   10
-002.0.02.1.lemmaexp 435     436   437   438  439   440 441
+002.0.02.1.text     Osweald þearf fēran fram holte tō tūne.
+002.0.02.1.norm     Osweald þearf fēran fram holte tō tūne
+002.0.02.1.flags    .       .     .     .    .     .  .
+002.0.02.1.lemma    Osweald þearf feran fram holt  to tune
+002.0.02.1.normexp  21      1     2     1    21    2  14
+002.0.02.1.lemmaexp 21      1     2     1    27    2  14
 
-002.0.02.2.text     And fēran fram holte tō  tūne is  lang sīþ.
-002.0.02.2.norm     And fēran fram holte tō  tūne is  lang sīþ
-002.0.02.2.flags    .   .     .    .     .   .    .   .    .
-002.0.02.2.lemma    -   -     -    -     -   -    -   -    -
-002.0.02.2.normexp  3   3     2    17    3   11   21  1    1
-002.0.02.2.lemmaexp 442 443   444  445   446 447  448 449  450
+002.0.02.2.text     And fēran fram holte tō tūne is lang sīþ.
+002.0.02.2.norm     and fēran fram holte tō tūne is lang sīþ
+002.0.02.2.flags    c   .     .    .     .  .    .  .    .
+002.0.02.2.lemma    and feran fram holt  to tune is lang siþ
+002.0.02.2.normexp  13  3     2    22    3  15   24 1    1
+002.0.02.2.lemmaexp 13  3     2    28    3  15   24 1    1
 
-002.0.03.1.text     For þām þearf hē  mete.
-002.0.03.1.norm     For þām þearf hē  mete
-002.0.03.1.flags    .   .   .     .   .
-002.0.03.1.lemma    -   -   -     -   -
-002.0.03.1.normexp  3   7   2     8   1
-002.0.03.1.lemmaexp 451 452 453   454 455
+002.0.03.1.text     For þām þearf hē mete.
+002.0.03.1.norm     for þām þearf hē mete
+002.0.03.1.flags    c   .   .     .  .
+002.0.03.1.lemma    for se  þearf he mete
+002.0.03.1.normexp  6   7   2     17 1
+002.0.03.1.lemmaexp 6   35  2     25 1
 
-002.0.04.1.text     Hwelċ mete is  þǣr on  holte? Is  þǣr hlāf on  holte? Nese, nis þǣr hlāf on  holte.
-002.0.04.1.norm     Hwelċ mete is  þǣr on  holte? Is  þǣr hlāf on  holte? Nese  nis þǣr hlāf on  holte
-002.0.04.1.flags    .     .    .   .   .   .      .   .   .    .   .      .     .   .   .    .   .
-002.0.04.1.lemma    -     -    -   -   -   -      -   -   -    -   -      -     -   -   -    -   -
-002.0.04.1.normexp  1     2    22  5   41  6      4   6   1    42  7      9     4   7   2    43  18
-002.0.04.1.lemmaexp 456   457  458 459 460 461    462 463 464  465 466    467   468 469 470  471 472
+002.0.04.1.text     Hwelċ mete is þǣr on holte? Is þǣr hlāf on holte? Nese, nis   þǣr hlāf on holte.
+002.0.04.1.norm     hwelċ mete is þǣr on holte  is þǣr hlāf on holte  nese  nis   þǣr hlāf on holte
+002.0.04.1.flags    c     .    .  .   .  .      c  .   .    .  .      c     .     .   .    .  .
+002.0.04.1.lemma    hwelc mete is þær on holt   is þær hlaf on holt   nesan nesan þær hlaf on holt
+002.0.04.1.normexp  1     2    25 6   44 23     26 7   1    45 24     9     5     8   2    46 25
+002.0.04.1.lemmaexp 1     2    25 6   44 29     26 7   1    45 30     13    14    8   2    46 31
 
-002.0.04.2.text     Is  þǣr ċīese on  holte? Nese, nis þǣr ċīese on  holte.
-002.0.04.2.norm     Is  þǣr ċīese on  holte? Nese  nis þǣr ċīese on  holte
-002.0.04.2.flags    .   .   .     .   .      .     .   .   .     .   .
-002.0.04.2.lemma    -   -   -     -   -      -     -   -   -     -   -
-002.0.04.2.normexp  5   8   1     44  8      10    5   9   2     45  19
-002.0.04.2.lemmaexp 473 474 475   476 477    478   479 480 481   482 483
+002.0.04.2.text     Is þǣr ċīese on holte? Nese, nis   þǣr ċīese on holte.
+002.0.04.2.norm     is þǣr ċīese on holte  nese  nis   þǣr ċīese on holte
+002.0.04.2.flags    c  .   .     .  .      c     .     .   .     .  .
+002.0.04.2.lemma    is þær ciese on holt   nesan nesan þær ciese on holt
+002.0.04.2.normexp  27 9   1     47 26     10    6     10  2     48 27
+002.0.04.2.lemmaexp 27 9   1     47 32     15    16    10  2     48 33
 
-002.0.04.3.text     Ac  þǣr is  hlāf and ċīese on  tūne.
-002.0.04.3.norm     Ac  þǣr is  hlāf and ċīese on  tūne
-002.0.04.3.flags    .   .   .   .    .   .     .   .
-002.0.04.3.lemma    -   -   -   -    -   -     -   -
-002.0.04.3.normexp  2   10  23  3    11  3     46  12
-002.0.04.3.lemmaexp 484 485 486 487  488 489   490 491
+002.0.04.3.text     Ac þǣr is hlāf and ċīese on tūne.
+002.0.04.3.norm     ac þǣr is hlāf and ċīese on tūne
+002.0.04.3.flags    c  .   .  .    .   .     .  .
+002.0.04.3.lemma    ac þær is hlaf and ciese on tune
+002.0.04.3.normexp  7  11  28 3    14  3     49 16
+002.0.04.3.lemmaexp 7  11  28 3    14  3     49 16
 
-002.0.05.1.text     Hlāf is  gōd mete.
-002.0.05.1.norm     Hlāf is  gōd mete
-002.0.05.1.flags    .    .   .   .
-002.0.05.1.lemma    -    -   -   -
-002.0.05.1.normexp  1    24  1   3
-002.0.05.1.lemmaexp 492  493 494 495
+002.0.05.1.text     Hlāf is gōd mete.
+002.0.05.1.norm     hlāf is gōd mete
+002.0.05.1.flags    c    .  .   .
+002.0.05.1.lemma    hlaf is god mete
+002.0.05.1.normexp  4    29 1   3
+002.0.05.1.lemmaexp 4    29 1   3
 
 002.0.05.2.text     Weras and wīf etaþ hlāf.
-002.0.05.2.norm     Weras and wīf etaþ hlāf
-002.0.05.2.flags    .     .   .   .    .
-002.0.05.2.lemma    -     -   -   -    -
-002.0.05.2.normexp  1     12  9   1    4
-002.0.05.2.lemmaexp 496   497 498 499  500
+002.0.05.2.norm     weras and wīf etaþ hlāf
+002.0.05.2.flags    c     .   .   .    .
+002.0.05.2.lemma    wer   and wif etan hlaf
+002.0.05.2.normexp  6     15  10  1    5
+002.0.05.2.lemmaexp 11    15  10  1    5
 
-002.0.05.3.text     Hlāf is  gōd mete werum and wīfum.
-002.0.05.3.norm     Hlāf is  gōd mete werum and wīfum
-002.0.05.3.flags    .    .   .   .    .     .   .
-002.0.05.3.lemma    -    -   -   -    -     -   -
-002.0.05.3.normexp  2    25  2   4    1     13  1
-002.0.05.3.lemmaexp 501  502 503 504  505   506 507
+002.0.05.3.text     Hlāf is gōd mete werum and wīfum.
+002.0.05.3.norm     hlāf is gōd mete werum and wīfum
+002.0.05.3.flags    c    .  .   .    .     .   .
+002.0.05.3.lemma    hlaf is god mete wer   and wif
+002.0.05.3.normexp  6    30 2   4    1     16  1
+002.0.05.3.lemmaexp 6    30 2   4    12    16  11
 
-002.0.06.1.text     Ċīese is  ēac gōd mete.
-002.0.06.1.norm     Ċīese is  ēac gōd mete
-002.0.06.1.flags    .     .   .   .   .
-002.0.06.1.lemma    -     -   -   -   -
-002.0.06.1.normexp  1     26  5   3   5
-002.0.06.1.lemmaexp 508   509 510 511 512
+002.0.06.1.text     Ċīese is ēac gōd mete.
+002.0.06.1.norm     ċīese is ēac gōd mete
+002.0.06.1.flags    c     .  .   .   .
+002.0.06.1.lemma    ciese is eac god mete
+002.0.06.1.normexp  4     31 5   3   5
+002.0.06.1.lemmaexp 4     31 5   3   5
 
 002.0.06.2.text     Weras and wīf etaþ ēac ċīese.
-002.0.06.2.norm     Weras and wīf etaþ ēac ċīese
-002.0.06.2.flags    .     .   .   .    .   .
-002.0.06.2.lemma    -     -   -   -    -   -
-002.0.06.2.normexp  2     14  10  2    6   4
-002.0.06.2.lemmaexp 513   514 515 516  517 518
+002.0.06.2.norm     weras and wīf etaþ ēac ċīese
+002.0.06.2.flags    c     .   .   .    .   .
+002.0.06.2.lemma    wer   and wif etan eac ciese
+002.0.06.2.normexp  7     17  11  2    6   5
+002.0.06.2.lemmaexp 13    17  12  2    6   5
 
-002.0.06.3.text     Ċīese is  gōd mete werum and wīfum.
-002.0.06.3.norm     Ċīese is  gōd mete werum and wīfum
-002.0.06.3.flags    .     .   .   .    .     .   .
-002.0.06.3.lemma    -     -   -   -    -     -   -
-002.0.06.3.normexp  2     27  4   6    2     15  2
-002.0.06.3.lemmaexp 519   520 521 522  523   524 525
+002.0.06.3.text     Ċīese is gōd mete werum and wīfum.
+002.0.06.3.norm     ċīese is gōd mete werum and wīfum
+002.0.06.3.flags    c     .  .   .    .     .   .
+002.0.06.3.lemma    ciese is god mete wer   and wif
+002.0.06.3.normexp  6     32 4   6    2     18  2
+002.0.06.3.lemmaexp 6     32 4   6    14    18  13
 
-002.0.07.1.text     Hwelċ mete is  þonne þǣr on  holte? Þǣr sindon fisċas in  holte.
-002.0.07.1.norm     Hwelċ mete is  þonne þǣr on  holte? Þǣr sindon fisċas in  holte
-002.0.07.1.flags    .     .    .   .     .   .   .      .   .      .      .   .
-002.0.07.1.lemma    -     -    -   -     -   -   -      -   -      -      -   -
-002.0.07.1.normexp  2     7    28  1     11  47  9      2   4      1      2   20
-002.0.07.1.lemmaexp 526   527  528 529   530 531 532    533 534    535    536 537
+002.0.07.1.text     Hwelċ mete is þonne þǣr on holte? Þǣr sindon fisċas in holte.
+002.0.07.1.norm     hwelċ mete is þonne þǣr on holte  þǣr sindon fisċas in holte
+002.0.07.1.flags    c     .    .  .     .   .  .      c   .      .      .  .
+002.0.07.1.lemma    hwelc mete is se    þær on holt   þær wesan  fiscas in holt
+002.0.07.1.normexp  2     7    33 1     12  50 28     13  4      1      3  29
+002.0.07.1.lemmaexp 2     7    33 36    12  50 34     13  4      1      3  35
 
 002.0.07.2.text     Beran etaþ fisċas.
-002.0.07.2.norm     Beran etaþ fisċas
-002.0.07.2.flags    .     .    .
-002.0.07.2.lemma    -     -    -
-002.0.07.2.normexp  1     3    2
-002.0.07.2.lemmaexp 538   539  540
+002.0.07.2.norm     beran etaþ fisċas
+002.0.07.2.flags    c     .    .
+002.0.07.2.lemma    beran etan fiscas
+002.0.07.2.normexp  5     3    2
+002.0.07.2.lemmaexp 5     3    2
 
 002.0.07.3.text     Fisċas sindon gōd mete beran.
-002.0.07.3.norm     Fisċas sindon gōd mete beran
-002.0.07.3.flags    .      .      .   .    .
-002.0.07.3.lemma    -      -      -   -    -
-002.0.07.3.normexp  1      5      5   8    5
-002.0.07.3.lemmaexp 541    542    543 544  545
+002.0.07.3.norm     fisċas sindon gōd mete beran
+002.0.07.3.flags    c      .      .   .    .
+002.0.07.3.lemma    fiscas wesan  god mete beran
+002.0.07.3.normexp  3      5      5   8    6
+002.0.07.3.lemmaexp 3      5      5   8    6
 
-002.0.08.1.text     Þǣr sindon ēac berġan on  holte.
-002.0.08.1.norm     Þǣr sindon ēac berġan on  holte
-002.0.08.1.flags    .   .      .   .      .   .
-002.0.08.1.lemma    -   -      -   -      -   -
-002.0.08.1.normexp  3   6      7   1      48  21
-002.0.08.1.lemmaexp 546 547    548 549    550 551
+002.0.08.1.text     Þǣr sindon ēac berġan on holte.
+002.0.08.1.norm     þǣr sindon ēac berġan on holte
+002.0.08.1.flags    c   .      .   .      .  .
+002.0.08.1.lemma    þær wesan  eac bergan on holt
+002.0.08.1.normexp  14  6      7   1      51 30
+002.0.08.1.lemmaexp 14  6      7   1      51 36
 
 002.0.08.2.text     Berġan sindon gōd mete beran.
-002.0.08.2.norm     Berġan sindon gōd mete beran
-002.0.08.2.flags    .      .      .   .    .
-002.0.08.2.lemma    -      -      -   -    -
-002.0.08.2.normexp  1      7      6   9    6
-002.0.08.2.lemmaexp 552    553    554 555  556
+002.0.08.2.norm     berġan sindon gōd mete beran
+002.0.08.2.flags    c      .      .   .    .
+002.0.08.2.lemma    bergan wesan  god mete beran
+002.0.08.2.normexp  2      7      6   9    7
+002.0.08.2.lemmaexp 2      7      6   9    7
 
-002.0.09.1.text     Þǣr is  ēac huniġ on  holte.
-002.0.09.1.norm     Þǣr is  ēac huniġ on  holte
-002.0.09.1.flags    .   .   .   .     .   .
-002.0.09.1.lemma    -   -   -   -     -   -
-002.0.09.1.normexp  4   29  8   1     49  22
-002.0.09.1.lemmaexp 557 558 559 560   561 562
+002.0.09.1.text     Þǣr is ēac huniġ on holte.
+002.0.09.1.norm     þǣr is ēac huniġ on holte
+002.0.09.1.flags    c   .  .   .     .  .
+002.0.09.1.lemma    þær is eac hunig on holt
+002.0.09.1.normexp  15  34 8   1     52 31
+002.0.09.1.lemmaexp 15  34 8   1     52 37
 
-002.0.09.2.text     Huniġ is  ēac gōd mete beran.
-002.0.09.2.norm     Huniġ is  ēac gōd mete beran
-002.0.09.2.flags    .     .   .   .   .    .
-002.0.09.2.lemma    -     -   -   -   -    -
-002.0.09.2.normexp  1     30  9   7   10   7
-002.0.09.2.lemmaexp 563   564 565 566 567  568
+002.0.09.2.text     Huniġ is ēac gōd mete beran.
+002.0.09.2.norm     huniġ is ēac gōd mete beran
+002.0.09.2.flags    c     .  .   .   .    .
+002.0.09.2.lemma    hunig is eac god mete beran
+002.0.09.2.normexp  2     35 9   7   10   8
+002.0.09.2.lemmaexp 2     35 9   7   10   8
 
 002.0.10.1.text     Fisċas and berġan and huniġ sindon gōd mete beran.
-002.0.10.1.norm     Fisċas and berġan and huniġ sindon gōd mete beran
-002.0.10.1.flags    .      .   .      .   .     .      .   .    .
-002.0.10.1.lemma    -      -   -      -   -     -      -   -    -
-002.0.10.1.normexp  2      16  2      17  2     8      8   11   8
-002.0.10.1.lemmaexp 569    570 571    572 573   574    575 576  577
+002.0.10.1.norm     fisċas and berġan and huniġ sindon gōd mete beran
+002.0.10.1.flags    c      .   .      .   .     .      .   .    .
+002.0.10.1.lemma    fiscas and bergan and hunig wesan  god mete beran
+002.0.10.1.normexp  4      19  3      20  3     8      8   11   9
+002.0.10.1.lemmaexp 4      19  3      20  3     8      8   11   9
 
-002.0.11.1.text     Osweald þearf sēċan mete on  holte: oþþe fisċas, oþþe berġan, oþþe huniġ.
-002.0.11.1.norm     Osweald þearf sēċan mete on  holte: oþþe fisċas  oþþe berġan  oþþe huniġ
-002.0.11.1.flags    .       .     .     .    .   .      .    .       .    .       .    .
-002.0.11.1.lemma    -       -     -     -    -   -      -    -       -    -       -    -
-002.0.11.1.normexp  21      3     1     12   50  1      1    3       2    3       3    3
-002.0.11.1.lemmaexp 578     579   580   581  582 583    584  585     586  587     588  589
+002.0.11.1.text     Osweald þearf sēċan mete on holte: oþþe fisċas, oþþe berġan, oþþe huniġ.
+002.0.11.1.norm     Osweald þearf sēċan mete on holte: oþþe fisċas  oþþe berġan  oþþe huniġ
+002.0.11.1.flags    .       .     .     .    .  .      .    .       .    .       .    .
+002.0.11.1.lemma    Osweald þearf secan mete on holte  oððe fiscas  oððe bergan  oððe hunig
+002.0.11.1.normexp  22      3     1     12   53 1      1    5       2    4       3    4
+002.0.11.1.lemmaexp 22      3     1     12   53 1      1    5       2    4       3    4
 
-002.0.12.1.text     Ǣrest seċeþ hē  fisċas.
-002.0.12.1.norm     Ǣrest seċeþ hē  fisċas
-002.0.12.1.flags    .     .     .   .
-002.0.12.1.lemma    -     -     -   -
-002.0.12.1.normexp  1     1     9   4
-002.0.12.1.lemmaexp 590   591   592 593
+002.0.12.1.text     Ǣrest seċeþ hē fisċas.
+002.0.12.1.norm     ǣrest seċeþ hē fisċas
+002.0.12.1.flags    c     .     .  .
+002.0.12.1.lemma    ær    seceþ he fiscas
+002.0.12.1.normexp  1     1     18 6
+002.0.12.1.lemmaexp 1     1     26 6
 
-002.0.12.2.text     Ac  ne  fint hē  fisċas.
-002.0.12.2.norm     Ac  ne  fint hē  fisċas
-002.0.12.2.flags    .   .   .    .   .
-002.0.12.2.lemma    -   -   -    -   -
-002.0.12.2.normexp  3   5   1    10  5
-002.0.12.2.lemmaexp 594 595 596  597 598
+002.0.12.2.text     Ac ne fint   hē fisċas.
+002.0.12.2.norm     ac ne fint   hē fisċas
+002.0.12.2.flags    c  .  .      .  .
+002.0.12.2.lemma    ac ne findan he fiscas
+002.0.12.2.normexp  8  8  1      19 7
+002.0.12.2.lemmaexp 8  8  1      27 7
 
-002.0.12.3.text     Hæfþ sē holt fisċas? Nese, næfþ sē holt fisċas.
-002.0.12.3.norm     Hæfþ sē holt fisċas? Nese  næfþ sē holt fisċas
-002.0.12.3.flags    .    .  .    .       .     .    .  .    .
-002.0.12.3.lemma    -    σύ -    -       -     -    σύ -    -
-002.0.12.3.normexp  1    9  7    1       11    1    10 8    6
-002.0.12.3.lemmaexp 599  25 600  601     602   603  26 604  605
+002.0.12.3.text     Hæfþ   sē holt fisċas? Nese, næfþ   sē holt fisċas.
+002.0.12.3.norm     hæfþ   sē holt fisċas  nese  næfþ   sē holt fisċas
+002.0.12.3.flags    c      .  .    .       c     .      .  .    .
+002.0.12.3.lemma    habban se holt fiscas  nesan nabban se holt fiscas
+002.0.12.3.normexp  1      17 7    8       11    1      18 8    9
+002.0.12.3.lemmaexp 1      37 38   8       17    1      38 39   9
 
-002.0.13.1.text     Þā  seċeþ hē  berġan.
-002.0.13.1.norm     Þā  seċeþ hē  berġan
-002.0.13.1.flags    .   .     .   .
-002.0.13.1.lemma    -   -     -   -
-002.0.13.1.normexp  1   2     11  4
-002.0.13.1.lemmaexp 606 607   608 609
+002.0.13.1.text     Þā seċeþ hē berġan.
+002.0.13.1.norm     þā seċeþ hē berġan
+002.0.13.1.flags    c  .     .  .
+002.0.13.1.lemma    þa seceþ he bergan
+002.0.13.1.normexp  1  2     20 5
+002.0.13.1.lemmaexp 1  2     28 5
 
-002.0.13.2.text     Ac  ne  fint hē  berġan.
-002.0.13.2.norm     Ac  ne  fint hē  berġan
-002.0.13.2.flags    .   .   .    .   .
-002.0.13.2.lemma    -   -   -    -   -
-002.0.13.2.normexp  4   6   2    12  5
-002.0.13.2.lemmaexp 610 611 612  613 614
+002.0.13.2.text     Ac ne fint   hē berġan.
+002.0.13.2.norm     ac ne fint   hē berġan
+002.0.13.2.flags    c  .  .      .  .
+002.0.13.2.lemma    ac ne findan he bergan
+002.0.13.2.normexp  9  9  2      21 6
+002.0.13.2.lemmaexp 9  9  2      29 6
 
-002.0.13.3.text     Hæfþ sē holt berġan? Nese, næfþ sē holt berġan.
-002.0.13.3.norm     Hæfþ sē holt berġan? Nese  næfþ sē holt berġan
-002.0.13.3.flags    .    .  .    .       .     .    .  .    .
-002.0.13.3.lemma    -    σύ -    -       -     -    σύ -    -
-002.0.13.3.normexp  2    11 9    1       12    2    12 10   6
-002.0.13.3.lemmaexp 615  27 616  617     618   619  28 620  621
+002.0.13.3.text     Hæfþ   sē holt berġan? Nese, næfþ   sē holt berġan.
+002.0.13.3.norm     hæfþ   sē holt berġan  nese  næfþ   sē holt berġan
+002.0.13.3.flags    c      .  .    .       c     .      .  .    .
+002.0.13.3.lemma    habban se holt bergan  nesan nabban se holt bergan
+002.0.13.3.normexp  2      19 9    7       12    2      20 10   8
+002.0.13.3.lemmaexp 2      39 40   7       18    2      40 41   8
 
-002.0.14.1.text     Þā  seċeþ hē  huniġ.
-002.0.14.1.norm     Þā  seċeþ hē  huniġ
-002.0.14.1.flags    .   .     .   .
-002.0.14.1.lemma    -   -     -   -
-002.0.14.1.normexp  2   3     13  4
-002.0.14.1.lemmaexp 622 623   624 625
+002.0.14.1.text     Þā seċeþ hē huniġ.
+002.0.14.1.norm     þā seċeþ hē huniġ
+002.0.14.1.flags    c  .     .  .
+002.0.14.1.lemma    þa seceþ he hunig
+002.0.14.1.normexp  2  3     22 5
+002.0.14.1.lemmaexp 2  3     30 5
 
-002.0.14.2.text     And sōþlīċe fint hē  huniġ.
-002.0.14.2.norm     And sōþlīċe fint hē  huniġ
-002.0.14.2.flags    .   .       .    .   .
-002.0.14.2.lemma    -   -       -    -   -
-002.0.14.2.normexp  4   1       3    14  5
-002.0.14.2.lemmaexp 626 627     628  629 630
+002.0.14.2.text     And sōþlīċe fint   hē huniġ.
+002.0.14.2.norm     and sōþlīċe fint   hē huniġ
+002.0.14.2.flags    c   .       .      .  .
+002.0.14.2.lemma    and soþlice findan he hunig
+002.0.14.2.normexp  21  1       3      23 6
+002.0.14.2.lemmaexp 21  1       3      31 6
 
-002.0.14.3.text     Hæfþ sē holt huniġ? Ġiese, sē holt hæfþ huniġ.
-002.0.14.3.norm     Hæfþ sē holt huniġ? Ġiese  sē holt hæfþ huniġ
-002.0.14.3.flags    .    .  .    .      .      .  .    .    .
-002.0.14.3.lemma    -    σύ -    -      -      σύ -    -    -
-002.0.14.3.normexp  3    13 11   1      2      14 12   1    6
-002.0.14.3.lemmaexp 631  29 632  633    634    30 635  636  637
+002.0.14.3.text     Hæfþ   sē holt huniġ? Ġiese, sē holt hæfþ   huniġ.
+002.0.14.3.norm     hæfþ   sē holt huniġ  ġiese  sē holt hæfþ   huniġ
+002.0.14.3.flags    c      .  .    .      c      .  .    .      .
+002.0.14.3.lemma    habban se holt hunig  giese  se holt habban hunig
+002.0.14.3.normexp  3      21 11   7      2      22 12   4      8
+002.0.14.3.lemmaexp 3      41 42   7      2      42 43   4      8
 
-002.0.14.4.text     Þǣr is  huniġ on  þām holte.
-002.0.14.4.norm     Þǣr is  huniġ on  þām holte
-002.0.14.4.flags    .   .   .     .   .   .
-002.0.14.4.lemma    -   -   -     -   -   -
-002.0.14.4.normexp  5   31  7     51  8   23
-002.0.14.4.lemmaexp 638 639 640   641 642 643
+002.0.14.4.text     Þǣr is huniġ on þām holte.
+002.0.14.4.norm     þǣr is huniġ on þām holte
+002.0.14.4.flags    c   .  .     .  .   .
+002.0.14.4.lemma    þær is hunig on se  holt
+002.0.14.4.normexp  16  36 9     54 8   32
+002.0.14.4.lemmaexp 16  36 9     54 43  44
 
 002.0.15.1.text     Hwā wyrċaþ huniġ? Bēon.
-002.0.15.1.norm     Hwā wyrċaþ huniġ? Bēon
-002.0.15.1.flags    .   .      .      .
-002.0.15.1.lemma    -   -      -      -
-002.0.15.1.normexp  3   1      2      1
-002.0.15.1.lemmaexp 644 645    646    647
+002.0.15.1.norm     hwā wyrċaþ huniġ  bēon
+002.0.15.1.flags    c   .      .      c
+002.0.15.1.lemma    hwa wyrcaþ hunig  beon
+002.0.15.1.normexp  4   1      10     1
+002.0.15.1.lemmaexp 4   1      10     1
 
 002.0.16.1.text     Hwæt sindon bēon? Bēon sindon lȳtele ġesċeafte.
-002.0.16.1.norm     Hwæt sindon bēon? Bēon sindon lȳtele ġesċeafte
-002.0.16.1.flags    .    .      .     .    .      .      .
-002.0.16.1.lemma    -    -      -     -    -      -      -
-002.0.16.1.normexp  7    9      1     2    10     1      1
-002.0.16.1.lemmaexp 648  649    650   651  652    653    654
+002.0.16.1.norm     hwæt sindon bēon  bēon sindon lȳtele ġesċeafte
+002.0.16.1.flags    c    .      .     c    .      .      .
+002.0.16.1.lemma    hwæt wesan  beon  beon wesan  lytele gesceaft
+002.0.16.1.normexp  8    9      2     3    10     1      1
+002.0.16.1.lemmaexp 8    9      2     3    10     1      1
 
 002.0.16.2.text     Hīe wyrċaþ huniġ.
-002.0.16.2.norm     Hīe wyrċaþ huniġ
-002.0.16.2.flags    .   .      .
-002.0.16.2.lemma    -   -      -
-002.0.16.2.normexp  3   2      8
-002.0.16.2.lemmaexp 655 656    657
+002.0.16.2.norm     hīe wyrċaþ huniġ
+002.0.16.2.flags    c   .      .
+002.0.16.2.lemma    hi  wyrcaþ hunig
+002.0.16.2.normexp  5   2      11
+002.0.16.2.lemmaexp 5   2      11
 
 002.0.16.3.text     Hīe cunnon sċeþþan ōþre ġesċeafte!
-002.0.16.3.norm     Hīe cunnon sċeþþan ōþre ġesċeafte
-002.0.16.3.flags    .   .      .       .    .
-002.0.16.3.lemma    -   -      -       -    -
-002.0.16.3.normexp  4   1      1       1    2
-002.0.16.3.lemmaexp 658 659    660     661  662
+002.0.16.3.norm     hīe cunnon sċeþþan ōþre ġesċeafte
+002.0.16.3.flags    c   .      .       .    .
+002.0.16.3.lemma    hi  cunnan sceþþan oðer gesceaft
+002.0.16.3.normexp  6   1      1       1    2
+002.0.16.3.lemmaexp 6   1      1       1    2
 
 002.0.17.1.text     Ōþre ġesċeafte willaþ etan huniġ: beran sindon miċele ġesċeafte and hīe willaþ etan huniġ.
-002.0.17.1.norm     Ōþre ġesċeafte willaþ etan huniġ: beran sindon miċele ġesċeafte and hīe willaþ etan huniġ
-002.0.17.1.flags    .    .         .      .    .      .     .      .      .         .   .   .      .    .
-002.0.17.1.lemma    -    -         -      -    -      -     -      -      -         -   -   -      -    -
-002.0.17.1.normexp  1    3         1      1    1      9     11     1      4         18  3   2      2    9
-002.0.17.1.lemmaexp 663  664       665    666  667    668   669    670    671       672 673 674    675  676
+002.0.17.1.norm     ōþre ġesċeafte willaþ etan huniġ: beran sindon miċele ġesċeafte and hīe willaþ etan huniġ
+002.0.17.1.flags    c    .         .      .    .      .     .      .      .         .   .   .      .    .
+002.0.17.1.lemma    oðer gesceaft  willan etan hunig  beran wesan  micel  gesceaft  and hi  willan etan hunig
+002.0.17.1.normexp  2    3         1      1    1      10    11     1      4         22  7   2      2    12
+002.0.17.1.lemmaexp 2    3         12     4    12     10    11     3      4         22  7   13     5    13
 
 002.0.17.2.text     Weras and wīf ēac willaþ etan huniġ.
-002.0.17.2.norm     Weras and wīf ēac willaþ etan huniġ
-002.0.17.2.flags    .     .   .   .   .      .    .
-002.0.17.2.lemma    -     -   -   -   -      -    -
-002.0.17.2.normexp  3     19  11  10  3      3    10
-002.0.17.2.lemmaexp 677   678 679 680 681    682  683
+002.0.17.2.norm     weras and wīf ēac willaþ etan huniġ
+002.0.17.2.flags    c     .   .   .   .      .    .
+002.0.17.2.lemma    wer   and wif eac willan etan hunig
+002.0.17.2.normexp  8     23  12  10  3      3    13
+002.0.17.2.lemmaexp 15    23  14  10  14     6    14
 
-002.0.18.1.text     Ac  nillaþ þā  bēon ġiefan huniġ ōþrum ġesċeaftum.
-002.0.18.1.norm     Ac  nillaþ þā  bēon ġiefan huniġ ōþrum ġesċeaftum
-002.0.18.1.flags    .   .      .   .    .      .     .     .
-002.0.18.1.lemma    -   -      -   -    -      -     -     -
-002.0.18.1.normexp  5   1      1   1    1      11    1     1
-002.0.18.1.lemmaexp 684 685    686 687  688    689   690   691
+002.0.18.1.text     Ac nillaþ þā bēon ġiefan huniġ ōþrum ġesċeaftum.
+002.0.18.1.norm     ac nillaþ þā bēon ġiefan huniġ ōþrum ġesċeaftum
+002.0.18.1.flags    c  .      .  .    .      .     .     .
+002.0.18.1.lemma    ac nillan þa beon giefan hunig oðer  gesceaftum
+002.0.18.1.normexp  10 1      3  4    1      14    1     1
+002.0.18.1.lemmaexp 10 1      3  4    1      15    3     1
 
-002.0.18.2.text     Nillaþ ġiefan huniġ ne  berum ne  werum ne  wīfum.
-002.0.18.2.norm     Nillaþ ġiefan huniġ ne  berum ne  werum ne  wīfum
-002.0.18.2.flags    .      .      .     .   .     .   .     .   .
-002.0.18.2.lemma    -      -      -     -   -     -   -     -   -
-002.0.18.2.normexp  1      2      12    7   1     8   3     9   3
-002.0.18.2.lemmaexp 692    693    694   695 696   697 698   699 700
+002.0.18.2.text     Nillaþ ġiefan huniġ ne berum ne werum ne wīfum.
+002.0.18.2.norm     nillaþ ġiefan huniġ ne berum ne werum ne wīfum
+002.0.18.2.flags    c      .      .     .  .     .  .     .  .
+002.0.18.2.lemma    nillan giefan hunig ne bera  ne wer   ne wif
+002.0.18.2.normexp  2      2      15    10 1     11 3     12 3
+002.0.18.2.lemmaexp 2      2      16    10 18    11 16    12 15
 
-002.0.19.1.text     Hū  cann bera þonne etan huniġ? Bera þearf niman þæt huniġ.
-002.0.19.1.norm     Hū  cann bera þonne etan huniġ? Bera þearf niman þæt huniġ
-002.0.19.1.flags    .   .    .    .     .    .      .    .     .     .   .
-002.0.19.1.lemma    -   -    -    -     -    -      -    -     -     -   -
-002.0.19.1.normexp  1   1    9    2     4    3      7    4     1     1   13
-002.0.19.1.lemmaexp 701 702  703  704   705  706    707  708   709   710 711
+002.0.19.1.text     Hū cann bera þonne etan huniġ? Bera þearf niman þæt huniġ.
+002.0.19.1.norm     hū cann bera þonne etan huniġ  bera þearf niman þæt huniġ
+002.0.19.1.flags    c  .    .    .     .    .      c    .     .     .   .
+002.0.19.1.lemma    hu cann bera se    etan hunig  bera þearf niman þæt hunig
+002.0.19.1.normexp  1  1    18   2     4    16     19   4     1     1   17
+002.0.19.1.lemmaexp 1  1    19   44    7    17     20   4     1     1   18
 
 002.0.20.1.text     For þām þearf Osweald niman huniġ þām bēom.
-002.0.20.1.norm     For þām þearf Osweald niman huniġ þām bēom
-002.0.20.1.flags    .   .   .     .       .     .     .   .
-002.0.20.1.lemma    -   -   -     -       -     -     -   -
-002.0.20.1.normexp  4   9   5     22      2     14    10  1
-002.0.20.1.lemmaexp 712 713 714   715     716   717   718 719
+002.0.20.1.norm     for þām þearf Osweald niman huniġ þām bēom
+002.0.20.1.flags    c   .   .     .       .     .     .   .
+002.0.20.1.lemma    for se  þearf Osweald niman hunig se  beom
+002.0.20.1.normexp  7   9   5     23      2     18    10  1
+002.0.20.1.lemmaexp 7   45  5     23      2     19    46  1
 
-002.0.22.1.text     Ne  sċeal Oswealt niman þæt huniġ on  dæġe, ac  on  nihte.
-002.0.22.1.norm     Ne  sċeal Oswealt niman þæt huniġ on  dæġe  ac  on  nihte
-002.0.22.1.flags    .   .     .       .     .   .     .   .     .   .   .
-002.0.22.1.lemma    -   -     -       -     -   -     -   -     -   -   -
-002.0.22.1.normexp  4   1     1       3     2   15    52  1     6   53  1
-002.0.22.1.lemmaexp 720 721   722     723   724 725   726 727   728 729 730
+002.0.22.1.text     Ne sċeal  Oswealt niman þæt huniġ on dæġe, ac on nihte.
+002.0.22.1.norm     ne sċeal  oswealt niman þæt huniġ on dæġe  ac on nihte
+002.0.22.1.flags    c  .      c       .     .   .     .  .     .  .  .
+002.0.22.1.lemma    ne sculan oswealt niman þæt hunig on dæge  ac on niht
+002.0.22.1.normexp  13 1      1       3     2   19    55 1     11 56 1
+002.0.22.1.lemmaexp 13 1      1       3     2   20    55 1     11 56 1
 
-002.0.22.2.text     On  dæġe waciaþ þā  bēon, ac  on  nihte slǣpaþ hīe.
-002.0.22.2.norm     On  dæġe waciaþ þā  bēon  ac  on  nihte slǣpaþ hīe
-002.0.22.2.flags    .   .    .      .   .     .   .   .     .      .
-002.0.22.2.lemma    -   -    -      -   -     -   -   -     -      -
-002.0.22.2.normexp  4   2    1      2   2     7   54  2     1      4
-002.0.22.2.lemmaexp 731 732  733    734 735   736 737 738   739    740
+002.0.22.2.text     On dæġe waciaþ þā bēon, ac on nihte slǣpaþ hīe.
+002.0.22.2.norm     on dæġe waciaþ þā bēon  ac on nihte slǣpaþ hīe
+002.0.22.2.flags    c  .    .      .  .     .  .  .     .      .
+002.0.22.2.lemma    on dæge wacian þa beon  ac on niht  slæpaþ hi
+002.0.22.2.normexp  57 2    1      4  5     12 58 2     1      8
+002.0.22.2.lemmaexp 57 2    1      4  5     12 58 2     1      8
 
-002.0.22.3.text     Þā  þā  hīe slǣpaþ, ne  cunnon hīe sċeþþan hine.
-002.0.22.3.norm     Þā  þā  hīe slǣpaþ  ne  cunnon hīe sċeþþan hine
-002.0.22.3.flags    .   .   .   .       .   .      .   .       .
-002.0.22.3.lemma    -   -   -   -       -   -      -   -       -
-002.0.22.3.normexp  3   3   5   2       10  2      6   2       1
-002.0.22.3.lemmaexp 741 742 743 744     745 746    747 748     749
+002.0.22.3.text     Þā þā hīe slǣpaþ, ne cunnon hīe sċeþþan hine.
+002.0.22.3.norm     þā þā hīe slǣpaþ  ne cunnon hīe sċeþþan hine
+002.0.22.3.flags    c  .  .   .       .  .      .   .       .
+002.0.22.3.lemma    þa þa hi  slæpaþ  ne cunnan hi  sceþþan he
+002.0.22.3.normexp  5  6  9   2       14 2      10  2       1
+002.0.22.3.lemmaexp 5  6  9   2       14 2      10  2       32
 
-002.0.23.1.text     For þām bītt Osweald oþ  nihte.
-002.0.23.1.norm     For þām bītt Osweald oþ  nihte
-002.0.23.1.flags    .   .   .    .       .   .
-002.0.23.1.lemma    -   -   -    -       -   -
-002.0.23.1.normexp  5   11  1    23      1   3
-002.0.23.1.lemmaexp 750 751 752  753     754 755
+002.0.23.1.text     For þām bītt   Osweald oþ nihte.
+002.0.23.1.norm     for þām bītt   Osweald oþ nihte
+002.0.23.1.flags    c   .   .      .       .  .
+002.0.23.1.lemma    for se  biddan Osweald oþ niht
+002.0.23.1.normexp  8   11  1      24      1  3
+002.0.23.1.lemmaexp 8   47  1      24      1  3
 
-002.0.23.2.text     Þā  cann hē  niman þæt huniġ þām bēom.
-002.0.23.2.norm     Þā  cann hē  niman þæt huniġ þām bēom
-002.0.23.2.flags    .   .    .   .     .   .     .   .
-002.0.23.2.lemma    -   -    -   -     -   -     -   -
-002.0.23.2.normexp  4   2    15  4     3   16    12  2
-002.0.23.2.lemmaexp 756 757  758 759   760 761   762 763
+002.0.23.2.text     Þā cann hē niman þæt huniġ þām bēom.
+002.0.23.2.norm     þā cann hē niman þæt huniġ þām bēom
+002.0.23.2.flags    c  .    .  .     .   .     .   .
+002.0.23.2.lemma    þa cann he niman þæt hunig se  beom
+002.0.23.2.normexp  7  2    24 4     3   20    12  2
+002.0.23.2.lemmaexp 7  2    33 4     3   21    48  2
 
-002.0.23.3.text     For þām þe  þā  bēon slǣpaþ on  nihte, ne  cunnon hīe sċeþþan hine.
-002.0.23.3.norm     For þām þe  þā  bēon slǣpaþ on  nihte  ne  cunnon hīe sċeþþan hine
-002.0.23.3.flags    .   .   .   .   .    .      .   .      .   .      .   .       .
-002.0.23.3.lemma    -   -   -   -   -    -      -   -      -   -      -   -       -
-002.0.23.3.normexp  6   13  5   4   3    3      55  4      11  3      7   3       2
-002.0.23.3.lemmaexp 764 765 766 767 768  769    770 771    772 773    774 775     776
+002.0.23.3.text     For þām þe þā bēon slǣpaþ on nihte, ne cunnon hīe sċeþþan hine.
+002.0.23.3.norm     for þām þe þā bēon slǣpaþ on nihte  ne cunnon hīe sċeþþan hine
+002.0.23.3.flags    c   .   .  .  .    .      .  .      .  .      .   .       .
+002.0.23.3.lemma    for se  se þa beon slæpaþ on niht   ne cunnan hi  sceþþan he
+002.0.23.3.normexp  9   13  5  8  6    3      59 4      15 3      11  3       2
+002.0.23.3.lemmaexp 9   49  50 8  6    3      59 4      15 3      11  3       34
 
-002.0.24.1.text     Þonne cymþ niht.
-002.0.24.1.norm     Þonne cymþ niht
-002.0.24.1.flags    .     .    .
-002.0.24.1.lemma    -     -    -
-002.0.24.1.normexp  1     1    1
-002.0.24.1.lemmaexp 777   778  779
+002.0.24.1.text     Þonne cymþ  niht.
+002.0.24.1.norm     þonne cymþ  niht
+002.0.24.1.flags    c     .     .
+002.0.24.1.lemma    se    cuman niht
+002.0.24.1.normexp  3     1     1
+002.0.24.1.lemmaexp 51    1     5
 
-002.0.24.2.text     þā  bēon slǣpaþ.
-002.0.24.2.norm     þā  bēon slǣpaþ
-002.0.24.2.flags    .   .    .
-002.0.24.2.lemma    -   -    -
-002.0.24.2.normexp  5   4    4
-002.0.24.2.lemmaexp 780 781  782
+002.0.24.2.text     þā bēon slǣpaþ.
+002.0.24.2.norm     þā bēon slǣpaþ
+002.0.24.2.flags    .  .    .
+002.0.24.2.lemma    þa beon slæpaþ
+002.0.24.2.normexp  9  7    4
+002.0.24.2.lemmaexp 9  7    4
 
-002.0.25.1.text     Þā  nimþ Osweald þæt huniġ þām bēom.
-002.0.25.1.norm     Þā  nimþ Osweald þæt huniġ þām bēom
-002.0.25.1.flags    .   .    .       .   .     .   .
-002.0.25.1.lemma    -   -    -       -   -     -   -
-002.0.25.1.normexp  5   1    24      4   17    14  3
-002.0.25.1.lemmaexp 783 784  785     786 787   788 789
+002.0.25.1.text     Þā nimþ Osweald þæt huniġ þām bēom.
+002.0.25.1.norm     þā nimþ Osweald þæt huniġ þām bēom
+002.0.25.1.flags    c  .    .       .   .     .   .
+002.0.25.1.lemma    þa nimþ Osweald þæt hunig se  beom
+002.0.25.1.normexp  10 1    25      4   21    14  3
+002.0.25.1.lemmaexp 10 1    25      4   22    52  3
 
-002.0.25.2.text     For þām þe  þā  bēon slǣpaþ, ne  sċeþþaþ þā  bēon hine.
-002.0.25.2.norm     For þām þe  þā  bēon slǣpaþ  ne  sċeþþaþ þā  bēon hine
-002.0.25.2.flags    .   .   .   .   .    .       .   .       .   .    .
-002.0.25.2.lemma    -   -   -   -   -    -       -   -       -   -    -
-002.0.25.2.normexp  7   15  6   6   5    5       12  1       7   6    3
-002.0.25.2.lemmaexp 790 791 792 793 794  795     796 797     798 799  800
+002.0.25.2.text     For þām þe þā bēon slǣpaþ, ne sċeþþaþ þā bēon hine.
+002.0.25.2.norm     for þām þe þā bēon slǣpaþ  ne sċeþþaþ þā bēon hine
+002.0.25.2.flags    c   .   .  .  .    .       .  .       .  .    .
+002.0.25.2.lemma    for se  se þa beon slæpaþ  ne sceþþaþ þa beon he
+002.0.25.2.normexp  10  15  6  11 8    5       16 1       12 9    3
+002.0.25.2.lemmaexp 10  53  54 11 8    5       16 1       12 9    35
 
-002.0.26.1.text     Ac  sum bēo wacaþ!
-002.0.26.1.norm     Ac  sum bēo wacaþ
-002.0.26.1.flags    .   .   .   .
-002.0.26.1.lemma    -   -   -   -
-002.0.26.1.normexp  6   5   1   1
-002.0.26.1.lemmaexp 801 802 803 804
+002.0.26.1.text     Ac sum bēo  wacaþ!
+002.0.26.1.norm     ac sum bēo  wacaþ
+002.0.26.1.flags    c  .   .    .
+002.0.26.1.lemma    ac sum beon wacian
+002.0.26.1.normexp  13 6   1    1
+002.0.26.1.lemmaexp 13 6   10   2
 
-002.0.26.2.text     Sēo bēo ġesiehþ Osweald Beran.
-002.0.26.2.norm     Sēo bēo ġesiehþ Osweald Beran
-002.0.26.2.flags    .   .   .       .       .
-002.0.26.2.lemma    σύ  -   -       -       -
-002.0.26.2.normexp  4   2   1       25      2
-002.0.26.2.lemmaexp 31  805 806     807     808
+002.0.26.2.text     Sēo bēo  ġesiehþ Osweald Beran.
+002.0.26.2.norm     sēo bēo  ġesiehþ Osweald beran
+002.0.26.2.flags    c   .    .       .       c
+002.0.26.2.lemma    se  beon gesiehþ Osweald beran
+002.0.26.2.normexp  9   2    1       26      11
+002.0.26.2.lemmaexp 55  11   1       26      11
 
-002.0.26.3.text     Sēo bēo wile sċeþþan Osweald, for þām þe  hē  nimþ þæt huniġ þām bēom.
-002.0.26.3.norm     Sēo bēo wile sċeþþan Osweald  for þām þe  hē  nimþ þæt huniġ þām bēom
-002.0.26.3.flags    .   .   .    .       .        .   .   .   .   .    .   .     .   .
-002.0.26.3.lemma    σύ  -   -    -       -        -   -   -   -   -    -   -     -   -
-002.0.26.3.normexp  5   3   12   4       26       4   16  7   16  2    5   18    17  4
-002.0.26.3.lemmaexp 32  809 810  811     812      813 814 815 816 817  818 819   820 821
+002.0.26.3.text     Sēo bēo  wile   sċeþþan Osweald, for þām þe hē nimþ þæt huniġ þām bēom.
+002.0.26.3.norm     sēo bēo  wile   sċeþþan Osweald  for þām þe hē nimþ þæt huniġ þām bēom
+002.0.26.3.flags    c   .    .      .       .        .   .   .  .  .    .   .     .   .
+002.0.26.3.lemma    se  beon willan sceþþan Osweald  for se  se he nimþ þæt hunig se  beom
+002.0.26.3.normexp  10  3    12     4       27       11  16  7  25 2    5   22    17  4
+002.0.26.3.lemmaexp 56  12   15     4       27       11  57  58 36 2    5   23    59  4
 
-002.0.27.1.text     Sēo bēo flīēġþ onġēan Osweald.
-002.0.27.1.norm     Sēo bēo flīēġþ onġēan Osweald
-002.0.27.1.flags    .   .   .      .      .
-002.0.27.1.lemma    σύ  -   -      -      -
-002.0.27.1.normexp  6   4   1      1      27
-002.0.27.1.lemmaexp 33  822 823    824    825
+002.0.27.1.text     Sēo bēo  flīēġþ onġēan  Osweald.
+002.0.27.1.norm     sēo bēo  flīēġþ onġēan  Osweald
+002.0.27.1.flags    c   .    .      .       .
+002.0.27.1.lemma    se  beon fliegþ ongeagn Osweald
+002.0.27.1.normexp  11  4    1      1       28
+002.0.27.1.lemmaexp 60  13   1      1       28
 
-002.0.27.2.text     Ac  hēo ne  sċeþeþ Osweald.
-002.0.27.2.norm     Ac  hēo ne  sċeþeþ Osweald
-002.0.27.2.flags    .   .   .   .      .
-002.0.27.2.lemma    -   -   -   -      -
-002.0.27.2.normexp  7   3   13  1      28
-002.0.27.2.lemmaexp 826 827 828 829    830
+002.0.27.2.text     Ac hēo ne sċeþeþ Osweald.
+002.0.27.2.norm     ac hēo ne sċeþeþ Osweald
+002.0.27.2.flags    c  .   .  .      .
+002.0.27.2.lemma    ac heo ne sceþeþ Osweald
+002.0.27.2.normexp  14 3   17 1      29
+002.0.27.2.lemmaexp 14 4   17 1      29
