@@ -19,7 +19,7 @@
 001.0.18 Sē cyning and sēo cwēn wuniaþ on Wintanċeastre, ac Osweald Bera wunaþ on holte.
 001.0.19 Wuniaþ sē cyning and sēo cwēn on holte? Nese, ne wuniaþ hīe on holte. Hīe wuniaþ on tūne.
 001.0.20 Wunaþ Osweald Bera on tūne? Nese, ne wunaþ hē on tūne. Hē wunaþ on holte.
-001.0.21 Hwȳ wunaþ Osweald on holte? Osweald wunaþ on holte for þām þe hē is bera. And beran wuniaþ on holte, nā on tūne.
+001.0.21 Hwȳ wunaþ Osweald Bera on holte? Osweald wunaþ on holte for þām þe hē is bera. And beran wuniaþ on holte, nā on tūne.
 001.0.22 Wuniaþ maniġe beran on holte? Nese, ne wuniaþ maniġe beran on holte. Ne wuniaþ maniġe beran on Engla-lande!
 001.0.23 Wuniaþ maniġe weras on tūne? Ġiese, maniġe weras wuniaþ on tūne, and ēac maniġe wīf. Fēawe weras wuniaþ on holte, and ēac fēaw wīf.
 001.0.24 Elles hwæt is þǣr on tūne? In tūne sindon maniġe hūs. Hwȳ sindon þǣr maniġe hūs on tūne? Þǣr sindon maniġe hūs on tūne, for þām þe þǣr maniġe weras and wīf wuniaþ.

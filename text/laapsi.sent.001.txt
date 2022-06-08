@@ -34,7 +34,7 @@
 001.0.19.2 Hīe wuniaþ on tūne.
 001.0.20.1 Wunaþ Osweald Bera on tūne? Nese, ne wunaþ hē on tūne.
 001.0.20.2 Hē wunaþ on holte.
-001.0.21.1 Hwȳ wunaþ Osweald on holte? Osweald wunaþ on holte for þām þe hē is bera.
+001.0.21.1 Hwȳ wunaþ Osweald Bera on holte? Osweald wunaþ on holte for þām þe hē is bera.
 001.0.21.2 And beran wuniaþ on holte, nā on tūne.
 001.0.22.1 Wuniaþ maniġe beran on holte? Nese, ne wuniaþ maniġe beran on holte.
 001.0.22.2 Ne wuniaþ maniġe beran on Engla-lande!

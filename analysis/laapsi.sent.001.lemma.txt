@@ -179,10 +179,10 @@
 001.0.20.2.flags c  .      .  .
 001.0.20.2.lemma he wunian on holt
 
-001.0.21.1.text  Hwȳ wunaþ  Osweald on holte? Osweald wunaþ  on holte for þām þe hē is bera.
-001.0.21.1.norm  hwȳ wunaþ  Osweald on holte  Osweald wunaþ  on holte for þām þe hē is bera
-001.0.21.1.flags c   .      .       .  .      .       .      .  .     .   .   .  .  .  .
-001.0.21.1.lemma hwy wunian Osweald on holt   Osweald wunian on holt  for se  se he is bera
+001.0.21.1.text  Hwȳ wunaþ  Osweald Bera on holte? Osweald wunaþ  on holte for þām þe hē is bera.
+001.0.21.1.norm  hwȳ wunaþ  Osweald bera on holte  Osweald wunaþ  on holte for þām þe hē is bera
+001.0.21.1.flags c   .      .       c    .  .      .       .      .  .     .   .   .  .  .  .
+001.0.21.1.lemma hwy wunian Osweald bera on holt   Osweald wunian on holt  for se  se he is bera
 
 001.0.21.2.text  And beran wuniaþ on holte, nā on tūne.
 001.0.21.2.norm  and beran wuniaþ on holte  nā on tūne

@@ -3,8 +3,8 @@
 002.0.01.1.norm     Osweald bera wunaþ  in lȳtelum holte  ac hē wile   middanġeard ġesēon
 002.0.01.1.flags    .       c    .      .  .       .      .  .  .      .           .
 002.0.01.1.lemma    Osweald bera wunian in lytelum holt   ac he willan middangeard geseon
-002.0.01.1.normexp  20      17   22     2  4       20     6  15 10     2           6
-002.0.01.1.lemmaexp 20      17   37     2  4       25     6  22 10     2           6
+002.0.01.1.normexp  20      18   22     2  4       20     6  15 10     2           6
+002.0.01.1.lemmaexp 20      18   37     2  4       25     6  22 10     2           6
 
 002.0.01.2.text     For þām wile   hē his holt ġewītan and fēran tō Wintanċeastre tūne.
 002.0.01.2.norm     for þām wile   hē his holt ġewītan and fēran tō wintanċeastre tūne
@@ -284,14 +284,14 @@
 002.0.18.2.flags    c      .      .     .  .     .  .     .  .
 002.0.18.2.lemma    nillan giefan hunig ne bera  ne wer   ne wif
 002.0.18.2.normexp  2      2      15    10 1     11 3     12 3
-002.0.18.2.lemmaexp 2      2      16    10 18    11 16    12 15
+002.0.18.2.lemmaexp 2      2      16    10 19    11 16    12 15
 
 002.0.19.1.text     Hū cann bera þonne etan huniġ? Bera þearf niman þæt huniġ.
 002.0.19.1.norm     hū cann bera þonne etan huniġ  bera þearf niman þæt huniġ
 002.0.19.1.flags    c  .    .    .     .    .      c    .     .     .   .
 002.0.19.1.lemma    hu cann bera se    etan hunig  bera þearf niman þæt hunig
-002.0.19.1.normexp  1  1    18   2     4    16     19   4     1     1   17
-002.0.19.1.lemmaexp 1  1    19   44    7    17     20   4     1     1   18
+002.0.19.1.normexp  1  1    19   2     4    16     20   4     1     1   17
+002.0.19.1.lemmaexp 1  1    20   44    7    17     21   4     1     1   18
 
 002.0.20.1.text     For þām þearf Osweald niman huniġ þām bēom.
 002.0.20.1.norm     for þām þearf Osweald niman huniġ þām bēom
