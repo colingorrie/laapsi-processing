@@ -19,3 +19,6 @@ cltk = "*"
 
 [requires]
 python_version = "3.8"
+
+[scripts]
+pipeline = "pypyr pipeline"

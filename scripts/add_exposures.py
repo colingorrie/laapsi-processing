@@ -4,45 +4,47 @@ adds exposure counts for both lemmas and normalized forms to the interlinear.
 """
 
 from collections import Counter
-from constants import N_CHAPTERS, TEXT_NAME
 
-from utils import print_interlinear
+from src.constants import N_CHAPTERS, TEXT_NAME
+from src.utils import print_interlinear
 
-seen_norm = Counter()
-seen_lemma = Counter()
 
-for chapter_num in range(1, N_CHAPTERS + 1):
-    input_filename = f"analysis/{TEXT_NAME}.sent.{chapter_num:03d}.lemma.txt"
-    output_filename = f"analysis/{TEXT_NAME}.sent.{chapter_num:03d}.exposures.txt"
+def add_exposures():
+    seen_norm = Counter()
+    seen_lemma = Counter()
 
-    with open(input_filename) as f, open(output_filename, "w") as g:
-        for line in f:
+    for chapter_num in range(1, N_CHAPTERS + 1):
+        input_filename = f"analysis/{TEXT_NAME}.sent.{chapter_num:03d}.lemma.txt"
+        output_filename = f"analysis/{TEXT_NAME}.sent.{chapter_num:03d}.exposures.txt"
 
-            if ".text" in line:
-                text_list = line.strip().split()
+        with open(input_filename) as f, open(output_filename, "w") as g:
+            for line in f:
 
-            if ".norm" in line:
-                ref = line.split(".norm")[0]
-                norm_list = line.strip().split()
-                normexp_list = [f"{ref}.normexp"]
+                if ".text" in line:
+                    text_list = line.strip().split()
 
-                for norm in norm_list[1:]:
-                    seen_norm[norm] += 1
-                    normexp_list.append(str(seen_norm[norm]))
+                if ".norm" in line:
+                    ref = line.split(".norm")[0]
+                    norm_list = line.strip().split()
+                    normexp_list = [f"{ref}.normexp"]
 
-            if ".flags" in line:
-                flags_list = line.strip().split()
+                    for norm in norm_list[1:]:
+                        seen_norm[norm] += 1
+                        normexp_list.append(str(seen_norm[norm]))
 
-            if ".lemma" in line:
-                lemma_list = line.strip().split()
-                ref = line.split(".lemma")[0]
-                lemmaexp_list = [f"{ref}.lemmaexp"]
+                if ".flags" in line:
+                    flags_list = line.strip().split()
 
-                for lemma in lemma_list[1:]:
-                    seen_lemma[lemma] += 1
-                    lemmaexp_list.append(str(seen_lemma[lemma]))
+                if ".lemma" in line:
+                    lemma_list = line.strip().split()
+                    ref = line.split(".lemma")[0]
+                    lemmaexp_list = [f"{ref}.lemmaexp"]
 
-                print_interlinear([
-                    text_list, norm_list, flags_list, lemma_list, normexp_list,
-                    lemmaexp_list
-                ], g)
+                    for lemma in lemma_list[1:]:
+                        seen_lemma[lemma] += 1
+                        lemmaexp_list.append(str(seen_lemma[lemma]))
+
+                    print_interlinear([
+                        text_list, norm_list, flags_list, lemma_list,
+                        normexp_list, lemmaexp_list
+                    ], g)

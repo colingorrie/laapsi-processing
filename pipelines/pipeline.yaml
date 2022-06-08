@@ -1,0 +1,8 @@
+steps:
+  - name: orig_to_para
+  - name: para_to_sent
+  - name: add_norm
+  - name: lemmatise
+  - name: add_exposures
+  - name: generate_chapter_data
+  - name: render
